@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="SUBSCRIPTION : PREMIUM"
 
-1 DEVICE###TEST2
+1 DEVICE
 
 https://iili.io/CN3tDy7.png
 

@@ -13,7 +13,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
-https://linears2-playback.astro.com.my/vsg/41XdjPWIbZTJFidZQzUP4qao8V94gMeO4v6hhSn-2Yi_c=OJ1y/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41XdjPWIbZTJFidZQzUP4qajAmkZXtLLwJr82Z3Wqv2TY=vlZo/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 ##308
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" ch-number="308" tvg-id="AstroQJ" group-title="CHINESE" tvg-logo="https://i.ibb.co/8DxMBZqG/astro-qj-logo-2023-present-by-astrologo2003-dgl7f1v-fullview.jpg",308 QJ HD (Not 24H)
@@ -22,7 +22,7 @@ https://linears2-playback.astro.com.my/vsg/41XdjPWIbZTJFidZQzUP4qao8V94gMeO4v6hh
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/410NO49yrg_zGqR3JQJNB_JOVqxyir4cF03I-cmgILQds=TrXJ/dash-wv/jitp-linearwm/2507/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/410NO49yrg_zGqR3JQJNB_JGWSk6RHUYw1zuNJ7sYGTVI=IQOm/dash-wv/jitp-linearwm/2507/default_ott.mpd
 
 
 
@@ -53,7 +53,7 @@ tinyurl.com/rtsh874
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41hF2-uNg3vr8NqWHGdD1F4AQ38J4vLNEt1QlnARLeoWs=fZE5/dash-wv/jitp-linearwm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41hF2-uNg3vr8NqWHGdD1F4GvPQa4RVcrlb7DGi8g-LaA=GQwU/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 ##804
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Arena Bola 2 HD (Not 24H)
@@ -62,7 +62,7 @@ https://linears2-playback.astro.com.my/vsg/41hF2-uNg3vr8NqWHGdD1F4AQ38J4vLNEt1Ql
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41XkEADT3oBeR6cs3YIpXtRaebkINSW1KOvmX4Fo_Sczw=wYha/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41XkEADT3oBeR6cs3YIpXtRVeFLxOAngI8ADg34gmoHYA=jdO9/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 ##811
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="SPORTS",811 Premier League HD (Not 24H)
@@ -71,7 +71,7 @@ https://linears2-playback.astro.com.my/vsg/41XkEADT3oBeR6cs3YIpXtRaebkINSW1KOvmX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/4112u-piKPlezVaEW2coplHXBa38X4obHnj54eO9cDE9s=46XK/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41R2fFlLIHymXwsXx9VDA2c-Qxms9If2USEzAxfsQUu_A=6kTV/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 ##812
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
@@ -81,28 +81,28 @@ https://linears2-playback.astro.com.my/vsg/4112u-piKPlezVaEW2coplHXBa38X4obHnj54
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41oIGx4OV3-Tb5OYDx-JQemDXUUorcmj58neaiHsHoq5s=8YPL/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41oIGx4OV3-Tb5OYDx-JQemFn8YgRfTIqQYErP0wMSTXo=gqw2/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 ##810
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="SPORTS",810 Grandstand HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41FSZdE4tzpW3Wzgb9eBMxrjQD88l8AXDuzpUIk056o3o=euF7/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41FSZdE4tzpW3Wzgb9eBMxrlXIHdxN_noB1WPS-Czidcw=czPk/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 ##BEIN1
 #EXTINF:-1 tvg-id="708" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 1 (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41LKqPg-hxGMBRB8hz6FrQAv1njmR4YKjOCkAT-CNXiAU=dASQ/dash-wv/jitp-linearwm/408/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41LKqPg-hxGMBRB8hz6FrQAp1ZztQHhRRATq4GuDcG8pQ=_Qpz/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 ##BEIN2
 #EXTINF:-1 tvg-id="709" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 2 (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41zHf71dGSLFwUhn1j3Se5z1Qm_4PeSKZWvtPLLEe7-08=5RlY/dash-wv/jitp-linearwm/5066/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41zHf71dGSLFwUhn1j3Se5z4PIU2XkVCduo2atzlbtbkg=kPKm/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 
 
@@ -433,7 +433,7 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 
 
 
-#EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="Sports" group-logo="https://iili.io/CN3tDy7.png" tvg-logo="https://i.ibb.co/JFC33Z2w/Sukan-RTM-1-April.png",Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="SPORTS" group-logo="https://iili.io/CN3tDy7.png" tvg-logo="https://i.ibb.co/JFC33Z2w/Sukan-RTM-1-April.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 

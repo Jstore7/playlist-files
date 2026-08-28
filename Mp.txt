@@ -3439,6 +3439,9 @@ https://www.dropbox.com/scl/fi/gj97aswv74oiba1hiuzxv/Embun.mkv?rlkey=rsd1mpxi6fu
 #EXTINF:-1 type="movie" group-title="Jstore-Special Merdeka!" tvg-logo="https://www.dropbox.com/scl/fi/a4hq9lgbmfbc6q94s81l9/gayong-2.jpeg?rlkey=e43a7pbn43zfjbafnb03aiapl&st=sd6y4nrf&dl=1", Gayong 2
 https://www.dropbox.com/scl/fi/kpndi60wstae7uhfkt46k/Gayong-2.mp4?rlkey=o83meg800ppqwsz12i5pbdt6g&st=c5f98d8z&dl=1
 
+#EXTINF:-1 type="movie" group-title="Jstore-Special Merdeka!" tvg-logo="https://www.dropbox.com/scl/fi/6926qt8s2se2jtvorw5jk/legasi-sejarah.jpg?rlkey=ucegl845j3ssx4xrtugyq2w3g&st=wrzyojj5&dl=1", LEGASI SEJARAH:PAK-NGAH HAJI OMAR PEJUANG MELAYU
+https://www.dropbox.com/scl/fi/r3v0spi0uc7h3lfwfrxs8/LEGASI-SEJARAH-_-PAK-NGAH-HAJI-OMAR-PEJUANG-MELAYU.mp4?rlkey=8mhoem90kifnnku86426wu9vt&st=zthgqs1x&dl=1
+
 
 
 ################################ Jstore FIRST
@@ -4777,12 +4780,24 @@ https://www.dropbox.com/scl/fi/15pstc7o1nst0yfxtmjka/E15.mkv?rlkey=9bnvz4q1xpyvj
 https://www.dropbox.com/scl/fi/2qik769uyr1qq2c3v0vkb/EP16.mp4?rlkey=t50guaa4pl5hyn5hzhwxbyeay&st=vn13r1ot&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E17
-
+https://www.dropbox.com/scl/fi/0phdaeb6upgs3eruwupdz/EP17.mp4?rlkey=b3u4mjvioc8qvgnaz0zm7sinr&st=zygr4ke0&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E18
+https://www.dropbox.com/scl/fi/qxt7s5c54xhw8ruuic458/EP18.mp4?rlkey=assbrdawr83wre66wxduiwgss&st=7js8otuj&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E19
+https://www.dropbox.com/scl/fi/u62qj2wbpkg5l6e3axv83/EP19.mp4?rlkey=b3qtux1moahp1849c2oda0eqi&st=4vfew4uy&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E20
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E21
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E22
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E23
 
 ################## Gerak Khas 2.0
 
@@ -4854,15 +4869,6 @@ https://www.dropbox.com/scl/fi/3as04uvtjqwqpkrk5rx0b/EP11.mp4?rlkey=5r2cvuzpojm9
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/bsb7s5b5rfth25qim7a09/Cinta-Dalam-Sekam.jpg?rlkey=iwjrs7v34qvu8nydmy0szc3of&st=8cm3mn1o&dl=1", Cinta Dalam Sekam E12
 https://www.dropbox.com/scl/fi/syqc63qp62jfimvibqsgb/Cinta-Dalam-Sekam-2026-EP12-Akhir-MalaySub.mp4?rlkey=wnku86n8gw6ib5n6owno59ale&st=4vc31l25&dl=1
 
-
-
-
-
-
-################## AJL 40 Final
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/aielbjyepy7mc7qfqhyt7/AJL40.jpg?rlkey=2be0dppjli1mdu1sh587wbin5&st=ta3wk9nj&dl=1", Anugerah Juara Lagu 40 Final
-https://www.dropbox.com/scl/fi/5sumch2y4w7ie8tk3zl7a/AJL40.mp4?rlkey=y9xihtodtwowsd0q0ljut2ych&st=3y5h1z1a&dl=1
 
 
 
@@ -4942,3 +4948,12 @@ https://www.dropbox.com/scl/fi/lvz60c2gu0286l3ghhoe7/Bharat.Bhhagya.Viddhaata.mp
 
 #EXTINF:-1 group-title="Movie on August" tvg-logo="https://www.dropbox.com/scl/fi/gjds84hqvte0tn15lykpl/5-bomoh.jpeg?rlkey=ro9brcs3f8eba10t6c6vihbk5&st=jpnkrl1h&dl=1",5 Bomoh
 https://www.dropbox.com/scl/fi/xysxa34g196ptgsqn7nv7/5bomoh.mp4?rlkey=k1up3h4x7hb6c8yapy2pot278&st=98sfiv3g&dl=1
+
+#EXTINF:-1 group-title="Movie on August" tvg-logo="https://www.dropbox.com/scl/fi/rbg1m08hnx0htln8qnf3k/the-furious.jpeg?rlkey=zjj7b0726vo2bdx3bujqsoh03&st=zq5x4s8p&dl=1",The Furious 2026
+https://www.dropbox.com/scl/fi/1ze95pokwhojgzrtweeec/The-Furious-2026.mp4?rlkey=y4fy3jnnoepeeq73at7v8wjuq&st=51q5dspl&dl=1
+
+#EXTINF:-1 group-title="Movie on August" tvg-logo="https://www.dropbox.com/scl/fi/t2u4cm3d4aqgbsgv54303/j2.jpeg?rlkey=u240jdiqvcvpb73q7c76p5syn&st=m6h8lhkq&dl=1",J2: J Retribusi
+https://www.dropbox.com/scl/fi/2btlojsts69y15dxmjv6b/J2.J.Retribusi.2021.mp4?rlkey=5i4kfjblc79860d8jyf4fpwfc&st=cjcm0w8q&dl=1
+
+#EXTINF:-1 group-title="Movie on August" tvg-logo="https://www.dropbox.com/scl/fi/bml8rni7g89wvkfr3dn7j/the-raid-2011.jpg?rlkey=kj6tzrqh5630tuqyybqanmqwj&st=i1zd4i2r&dl=1",The Raid Redemption
+https://www.dropbox.com/scl/fi/huobhagbqe9yf5729cjc9/The.Raid.Redemption.2011.MalaySub.mp4?rlkey=m27gkn6qfhk5kct3ni6esh961&st=6esqpuma&dl=1

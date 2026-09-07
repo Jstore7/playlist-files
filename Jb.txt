@@ -34,7 +34,7 @@ https://linears2-playback.astro.com.my/vsg/41DQQ8EcsZliVPsFtJOugQx5DtMcHR9BCMkLz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Mcbup3Gu5grxdJef9YYpwL6-Zn7EIxeX5KFvgdua3WE=M0-E/dash-wv/jitp-linearwm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41KCBiCRPdXsNSZ-UG5DIu-Q_TFgFta3DIuwkaKOuQ4QM=CtQN/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 ##804
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Arena Bola 2 HD (Not 24H)
@@ -43,7 +43,7 @@ https://linears2-playback.astro.com.my/vsg/41Mcbup3Gu5grxdJef9YYpwL6-Zn7EIxeX5KF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/412_gP636J0YGH-xxcL6KuyeigFgBixaoRk7T1ERoF4F0=nm3v/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41INNAOnTlXw0blk-85b41lD5CKW0FHGfvV2XIuq3Nczs=TZJ-/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 ##811
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="SPORTS",811 Premier League HD (Not 24H)

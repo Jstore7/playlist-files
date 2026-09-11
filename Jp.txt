@@ -13,7 +13,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://linears2-playback.astro.com.my/vsg/41KBwbI_ub6TgzjJ9J6r1O3FycQH77PI_YhDeC-OS6YPw=sNHa/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41TPtd9tI5fDfanUiNuwLpCumi7q2j4ih_5Zk6-Zoo9nM=6qCZ/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 ##105
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
@@ -73,7 +73,7 @@ https://linears2-playback.astro.com.my/vsg/41DQQ8EcsZliVPsFtJOugQx-2v9mGSKwEp5xF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41KCBiCRPdXsNSZ-UG5DIu-VhzhxTQpSTRyeP3Ll9WCps=3D9g/dash-wv/jitp-linearwm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41KCBiCRPdXsNSZ-UG5DIu-e3uYpEfc32QR9_YAw9e4vA=WEBF/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 ##804
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Arena Bola 2 HD (Not 24H)
@@ -82,7 +82,7 @@ https://linears2-playback.astro.com.my/vsg/41KCBiCRPdXsNSZ-UG5DIu-VhzhxTQpSTRyeP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41INNAOnTlXw0blk-85b41lMHZgvzmhR_mDBGT8epvA7o=5QAm/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41INNAOnTlXw0blk-85b41lHmalrup2EGvfR36KAT214A=ck1Y/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 ##811
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="SPORTS",811 Premier League HD (Not 24H)
@@ -91,7 +91,7 @@ https://linears2-playback.astro.com.my/vsg/41INNAOnTlXw0blk-85b41lMHZgvzmhR_mDBG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41rikKjO7vB4CoSE0gegTF8oNPIFYAuUdDYVELTa2b-kM=SFsW/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41rikKjO7vB4CoSE0gegTF8luvd6TiRIYJ_lsMNFKHD48=_Qyo/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 ##812
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
@@ -101,28 +101,28 @@ https://linears2-playback.astro.com.my/vsg/41rikKjO7vB4CoSE0gegTF8oNPIFYAuUdDYVE
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41xSG35GO-DCKoBXu7Xd4Q_FbWvkcnNsUhSvTgjQoGJBg=bLfx/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41xSG35GO-DCKoBXu7Xd4Q_KqdzBX2ep5ikuklX_OcOZ4=BO-H/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 ##810
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="SPORTS",810 Grandstand HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41esc9gpjSAXb_veUKaY5ZGCbN8pbxMIm_tzi6XTSdZGc=c7FH/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41esc9gpjSAXb_veUKaY5ZGDgJfl3NKBcmBIllk0pjh8w=TCiE/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 ##BEIN1
 #EXTINF:-1 tvg-id="708" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 1 (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Y8pvV9PYXLFj0SuBblvtudS3Q0j0GGSLYOb2U1V2oF0=kV1Q/dash-wv/jitp-linearwm/408/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41Y8pvV9PYXLFj0SuBblvtuSglOTBsDEA_b1slcvSP5g8=bEWn/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 ##BEIN2
 #EXTINF:-1 tvg-id="709" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 2 (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41KBwbI_ub6TgzjJ9J6r1O3FycQH77PI_YhDeC-OS6YPw=sNHa/dash-wv/jitp-linearwm/5066/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41KBwbI_ub6TgzjJ9J6r1O3CLp7ZwYGsRItA7ZqiPM4iI=N7zH/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 
 

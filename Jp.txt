@@ -287,7 +287,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/ind
 
 
 ## SOCCER CHANNEL
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/rRNwBvfF/jadwal-program-soccer-channel-1140x641.jpg" group-title="SPORTS",Soccer Channel HD
+@#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/rRNwBvfF/jadwal-program-soccer-channel-1140x641.jpg" group-title="SPORTS",Soccer Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -13,7 +13,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
-https://linears2-playback.astro.com.my/vsg/41cVLlsnpBWLire4zkVVQcjFrBOq3jdYafEKUMb-9CzIQ=Ah-y/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41cVLlsnpBWLire4zkVVQcjNl3SQ3ETaPCqJtmPw8rXg0=-KA6/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 ##308
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" ch-number="308" tvg-id="AstroQJ" group-title="CHINESE" tvg-logo="https://i.ibb.co/8DxMBZqG/astro-qj-logo-2023-present-by-astrologo2003-dgl7f1v-fullview.jpg",308 QJ HD (Not 24H)
@@ -22,7 +22,7 @@ https://linears2-playback.astro.com.my/vsg/41cVLlsnpBWLire4zkVVQcjFrBOq3jdYafEKU
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41aV4vunAVYEjLY3pD3wJOaO0SIL2A_u2p6wU4L19emjs=g0g1/dash-wv/jitp-linearwm/2507/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41aV4vunAVYEjLY3pD3wJOaPOGoerE2x2Xisz9OJlWocM=6ZIu/dash-wv/jitp-linearwm/2507/default_ott.mpd
 
 
 ################## SPORTS CHANNEL 

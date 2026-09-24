@@ -3017,6 +3017,7 @@ https://www.dropbox.com/scl/fi/hglk11kuax6uxl7ej7gly/m9.mp4?rlkey=0ctck3dng5c8vr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/8fbu3h1afzjf25iiyu7hy/17790623124056216236213042495001.jpg?rlkey=r93g2aynggwg4twz2clvqrry0&st=it5pa4fp&dl=1" group-title="Jstore-Drama Full",Talk To My Manager S2 E10
 https://www.dropbox.com/scl/fi/j7inq1l3zhro28xw4fue8/m10-akhir.mp4?rlkey=iea9dxplci16w9xlqlw8bo92s&st=wgxagmt6&dl=1
 
+
 ###################### Bapa Mentuaku Mafia
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/0j4hwssdx9cxz774o9gt3/Bapa-Mentuaku-Mafia.jpg?rlkey=3im35zppupbzdwxmp72wt8v2t&st=bg3x6t9f&dl=1" group-title="Jstore-Drama Full",Bapa Mentuaku Mafia E1
@@ -3132,6 +3133,8 @@ https://www.dropbox.com/scl/fi/j4w1ahu6jtgojkle9tljr/E24.mp4?rlkey=81axorz58nuzd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/8wnfu77wqkfdnxord4stb/JIWA-SEORANG-PENTAKSUB.webp?rlkey=rcz3c7h08fmecsqierjzuxnsf&st=tks70qd1&dl=1" group-title="Jstore-Drama Full", Jiwa Seorang Pentaksub E25
 https://www.dropbox.com/scl/fi/x58lq9o9zi9ggiw0h9tpv/E25.mp4?rlkey=8an9r0vg3rel9ill2kjrgwu1u&st=q1f11erv&dl=1
+
+
 
 ###################### DOA YANG TERLINDUNG
 
@@ -3363,6 +3366,96 @@ https://www.dropbox.com/scl/fi/ydp2kjtpz5ovs2zrv76bk/e11.mp4?rlkey=yt7sjw8djp11g
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/a1fwm3u38h81qrdv1r8h8/17726143479096246009143038285990.jpg?rlkey=tw85lpfubc83fti33crexqs4u&st=vnz1dt4z&dl=1" group-title="Jstore-Drama Full", Walid 2026 Full E12
 https://www.dropbox.com/scl/fi/jizish7v79es37xncfzs9/e12.mp4?rlkey=wu3530hwo6wj52er8gx6h4edr&st=7rp7ch0v&dl=1
+
+
+
+###################### BULAN HENTI BICARA
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E1
+https://www.dropbox.com/scl/fi/j0j6likfmh950sdf35xqa/EP1.mp4?rlkey=8alqtscy3vo9wsi91v6xhzf5h&st=4iquwvuq&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E2
+https://www.dropbox.com/scl/fi/iraqsit808wds2qvt5hg8/EP2.mp4?rlkey=sg9p7738n06kqzwtnz13v75gg&st=d93ahmtu&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E3
+https://www.dropbox.com/scl/fi/da8juz2u0xkp6iic6zcqh/EP3.mp4?rlkey=cs67t7fs6nou3hen0funbs6lr&st=gxy1or6a&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E4
+https://www.dropbox.com/scl/fi/jxvb0hvn1qjtq9xty7nw6/EP4.mp4?rlkey=4a48vh8idg0986ta58xv8e8or&st=gvp1xanh&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E5
+https://www.dropbox.com/scl/fi/ezn0ja8vthmjuisul5wn6/E5.mp4?rlkey=bufymfofkfxgmy5o5i2j6eo1m&st=yaqhx72k&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E6
+https://www.dropbox.com/scl/fi/nkfdks676xbkr9amyt3lw/E6.mp4?rlkey=vmu5hgwkwa8tkkft2x36w0okm&st=pswpvu2k&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E7
+https://www.dropbox.com/scl/fi/35k5khbwnfvqzrjax6lli/E7.mp4?rlkey=03rmljkyi7ydymhhattt7xwf2&st=0i4mkpca&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E8
+https://www.dropbox.com/scl/fi/ulqka104rmoounefpa4mi/E8.mp4?rlkey=p9kr0gbhv8palnr0lo9o0br5z&st=v9wg3to0&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E9
+https://www.dropbox.com/scl/fi/pw6ed6skouzgsqg3qmvto/E9.mp4?rlkey=clrh55s05olib1l1t2b4czp0q&st=cvfppq9x&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E10
+https://www.dropbox.com/scl/fi/94nqevmjzvzsyxgwmnnzg/E10.mp4?rlkey=ilrmxrnnxwyo1y5dx7h00jv2x&st=b5mo6gsw&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E11
+https://www.dropbox.com/scl/fi/bgnp262woi0xnzftaa4jy/E11.mp4?rlkey=01haafli0rus03kgnc85etj85&st=ugw6jw2h&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E12
+https://www.dropbox.com/scl/fi/4k1gc5a2zc5a6xmxyipk1/E12.mp4?rlkey=ysueldy15228a7ssafh6q5pmh&st=s0k916ky&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E13
+https://www.dropbox.com/scl/fi/wca5zyi27d6pe7qbtxzat/E13.mp4?rlkey=7worgq0axirint1g5636ct097&st=2xbhi8vp&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E14
+https://www.dropbox.com/scl/fi/rv9hfnedwtmqoaw9jjwyw/E14.mkv?rlkey=3o3xu3f3w2lkguvubh24n8twx&st=0cjbcpws&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E15
+https://www.dropbox.com/scl/fi/15pstc7o1nst0yfxtmjka/E15.mkv?rlkey=9bnvz4q1xpyvjor3v7u07vmk5&st=y0x2pctx&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E16
+https://www.dropbox.com/scl/fi/2qik769uyr1qq2c3v0vkb/EP16.mp4?rlkey=t50guaa4pl5hyn5hzhwxbyeay&st=vn13r1ot&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E17
+https://www.dropbox.com/scl/fi/0phdaeb6upgs3eruwupdz/EP17.mp4?rlkey=b3u4mjvioc8qvgnaz0zm7sinr&st=zygr4ke0&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E18
+https://www.dropbox.com/scl/fi/qxt7s5c54xhw8ruuic458/EP18.mp4?rlkey=assbrdawr83wre66wxduiwgss&st=7js8otuj&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E19
+https://www.dropbox.com/scl/fi/u62qj2wbpkg5l6e3axv83/EP19.mp4?rlkey=b3qtux1moahp1849c2oda0eqi&st=4vfew4uy&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E20
+https://www.dropbox.com/scl/fi/lcggby4rtrt5skh309jjn/EP20.mp4?rlkey=3dh48csfw4g5g182ydsfvtdeb&st=409zjyn4&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E21
+https://www.dropbox.com/scl/fi/tu3ucmutpqsqvmedkon0u/EP21.mp4?rlkey=di8pxv2kug73btqs33c3fmrx1&st=ydz56b6u&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E22
+https://www.dropbox.com/scl/fi/jmqqc6q0yucj0jwvrl9jh/EP22.mp4?rlkey=b3cpk3uyz2uflzowtu6w7vxwy&st=vxxhmj86&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E23
+https://www.dropbox.com/scl/fi/znfqlurbxlrins0gow6y1/EP23.mp4?rlkey=ih1bsqrt1zgjlg4vwdggz67ba&st=7lj4x2mv&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E24
+https://www.dropbox.com/scl/fi/fpip2rb5y0lc7sg0lh4ju/EP24.mp4?rlkey=gbtpdg9o3o8q81vraoyy6xpm1&st=7mlrcbyt&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E25
+https://www.dropbox.com/scl/fi/qym3t3x8vjlpeha2kg5a5/EP25.mp4?rlkey=h2zefskh72pg7vltg15r2otuq&st=31yrgypy&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E26
+https://www.dropbox.com/scl/fi/g16noy7530keids3ct9ni/EP26.mp4?rlkey=ho0x7x36lt8lraiu5x9ui3vzt&st=v4hzgdhx&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E27
+https://www.dropbox.com/scl/fi/qbb5gkunt16a3vb9da3c6/EP27.mp4?rlkey=zevwu738msdorhucjy95lk8tc&st=twwf2fun&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore-Drama Full" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E28
+https://www.dropbox.com/scl/fi/xrrwnk1d19qsv3dhjlpjr/EP28.mp4?rlkey=wmv8of8cptfij57eom495tnhl&st=5colq8on&dl=1
+
+
 
 
 ################### ONE PIECE
@@ -4895,91 +4988,6 @@ https://www.dropbox.com/scl/fi/fi7leyiv1a8dz7ndcw280/EP10.mp4?rlkey=05w61sfleqw1
 
 ####################################### Drama On Going
 
-###################### BULAN HENTI BICARA
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E1
-https://www.dropbox.com/scl/fi/j0j6likfmh950sdf35xqa/EP1.mp4?rlkey=8alqtscy3vo9wsi91v6xhzf5h&st=4iquwvuq&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E2
-https://www.dropbox.com/scl/fi/iraqsit808wds2qvt5hg8/EP2.mp4?rlkey=sg9p7738n06kqzwtnz13v75gg&st=d93ahmtu&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E3
-https://www.dropbox.com/scl/fi/da8juz2u0xkp6iic6zcqh/EP3.mp4?rlkey=cs67t7fs6nou3hen0funbs6lr&st=gxy1or6a&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E4
-https://www.dropbox.com/scl/fi/jxvb0hvn1qjtq9xty7nw6/EP4.mp4?rlkey=4a48vh8idg0986ta58xv8e8or&st=gvp1xanh&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E5
-https://www.dropbox.com/scl/fi/ezn0ja8vthmjuisul5wn6/E5.mp4?rlkey=bufymfofkfxgmy5o5i2j6eo1m&st=yaqhx72k&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E6
-https://www.dropbox.com/scl/fi/nkfdks676xbkr9amyt3lw/E6.mp4?rlkey=vmu5hgwkwa8tkkft2x36w0okm&st=pswpvu2k&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E7
-https://www.dropbox.com/scl/fi/35k5khbwnfvqzrjax6lli/E7.mp4?rlkey=03rmljkyi7ydymhhattt7xwf2&st=0i4mkpca&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E8
-https://www.dropbox.com/scl/fi/ulqka104rmoounefpa4mi/E8.mp4?rlkey=p9kr0gbhv8palnr0lo9o0br5z&st=v9wg3to0&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E9
-https://www.dropbox.com/scl/fi/pw6ed6skouzgsqg3qmvto/E9.mp4?rlkey=clrh55s05olib1l1t2b4czp0q&st=cvfppq9x&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E10
-https://www.dropbox.com/scl/fi/94nqevmjzvzsyxgwmnnzg/E10.mp4?rlkey=ilrmxrnnxwyo1y5dx7h00jv2x&st=b5mo6gsw&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E11
-https://www.dropbox.com/scl/fi/bgnp262woi0xnzftaa4jy/E11.mp4?rlkey=01haafli0rus03kgnc85etj85&st=ugw6jw2h&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E12
-https://www.dropbox.com/scl/fi/4k1gc5a2zc5a6xmxyipk1/E12.mp4?rlkey=ysueldy15228a7ssafh6q5pmh&st=s0k916ky&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E13
-https://www.dropbox.com/scl/fi/wca5zyi27d6pe7qbtxzat/E13.mp4?rlkey=7worgq0axirint1g5636ct097&st=2xbhi8vp&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E14
-https://www.dropbox.com/scl/fi/rv9hfnedwtmqoaw9jjwyw/E14.mkv?rlkey=3o3xu3f3w2lkguvubh24n8twx&st=0cjbcpws&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E15
-https://www.dropbox.com/scl/fi/15pstc7o1nst0yfxtmjka/E15.mkv?rlkey=9bnvz4q1xpyvjor3v7u07vmk5&st=y0x2pctx&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E16
-https://www.dropbox.com/scl/fi/2qik769uyr1qq2c3v0vkb/EP16.mp4?rlkey=t50guaa4pl5hyn5hzhwxbyeay&st=vn13r1ot&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E17
-https://www.dropbox.com/scl/fi/0phdaeb6upgs3eruwupdz/EP17.mp4?rlkey=b3u4mjvioc8qvgnaz0zm7sinr&st=zygr4ke0&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E18
-https://www.dropbox.com/scl/fi/qxt7s5c54xhw8ruuic458/EP18.mp4?rlkey=assbrdawr83wre66wxduiwgss&st=7js8otuj&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E19
-https://www.dropbox.com/scl/fi/u62qj2wbpkg5l6e3axv83/EP19.mp4?rlkey=b3qtux1moahp1849c2oda0eqi&st=4vfew4uy&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E20
-https://www.dropbox.com/scl/fi/lcggby4rtrt5skh309jjn/EP20.mp4?rlkey=3dh48csfw4g5g182ydsfvtdeb&st=409zjyn4&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E21
-https://www.dropbox.com/scl/fi/tu3ucmutpqsqvmedkon0u/EP21.mp4?rlkey=di8pxv2kug73btqs33c3fmrx1&st=ydz56b6u&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E22
-https://www.dropbox.com/scl/fi/jmqqc6q0yucj0jwvrl9jh/EP22.mp4?rlkey=b3cpk3uyz2uflzowtu6w7vxwy&st=vxxhmj86&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E23
-https://www.dropbox.com/scl/fi/znfqlurbxlrins0gow6y1/EP23.mp4?rlkey=ih1bsqrt1zgjlg4vwdggz67ba&st=7lj4x2mv&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E24
-https://www.dropbox.com/scl/fi/fpip2rb5y0lc7sg0lh4ju/EP24.mp4?rlkey=gbtpdg9o3o8q81vraoyy6xpm1&st=7mlrcbyt&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E25
-https://www.dropbox.com/scl/fi/qym3t3x8vjlpeha2kg5a5/EP25.mp4?rlkey=h2zefskh72pg7vltg15r2otuq&st=31yrgypy&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E26
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ym99zmplw7e7q0df3tvwr/bulan-henti-bicara.jpeg?rlkey=aujv34k13bqcsae719xltwvu8&st=hzrr7qir&dl=1", Bulan Henti Bicara E27
-
-
-
-
 
 ################## Gerak Khas 2.0
 
@@ -5010,6 +5018,13 @@ https://www.dropbox.com/scl/fi/nl46u9tv0cqwkpiomxuvu/Gerak-Khas-2-0-2026-EP8.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E9
 https://www.dropbox.com/scl/fi/bjf5wqhdkpcame1xlom8y/Gerak-Khas-2.0-2026-EP9.mp4?rlkey=2qtzodr6qz6rjkzmtg6ilh0bm&st=urtfiwh7&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E10
+https://www.dropbox.com/scl/fi/qiuri6he7jiu0am8fqk66/Gerak-Khas-2-0-2026-EP10.mp4?rlkey=ggdodsttftg4hnkdhpcvsiuaq&st=werk3mt1&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E11
+https://www.dropbox.com/scl/fi/tq7j0nxe5262pztosx69u/Gerak-Khas-2-0-2026-EP11.mp4?rlkey=expu9cd9a0wsoiwxzz6alir86&st=t6zmcpy4&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E12
 
 
 
@@ -5029,9 +5044,37 @@ https://www.dropbox.com/scl/fi/dyzdt5n0zs5ebj78axc91/Kilauan-Emas-Selebriti-2026
 https://www.dropbox.com/scl/fi/oxkjgomhslnn525hip4s1/Kilauan-Emas-Selebriti-2026-Minggu-3.mp4?rlkey=fa7fhxqlimv5vqis3knhjxjs5&st=sht7md10&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/d4f9ilx87w06qx62bbt8e/kilauan-emas-selebriti.jpeg?rlkey=cf54y8cxmnvx1mm05e9hu06ut&st=ah1hur3f&dl=1", Kilauan Selebriti E4
-
+https://www.dropbox.com/scl/fi/ufj8e147wyafsbq23nzdg/Kilauan-Emas-Selebriti-2026-Minggu-4.mp4?rlkey=f2tvo6l08es8f1792kmjhai6d&st=2y1k2ijv&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/d4f9ilx87w06qx62bbt8e/kilauan-emas-selebriti.jpeg?rlkey=cf54y8cxmnvx1mm05e9hu06ut&st=ah1hur3f&dl=1", Kilauan Selebriti E5
+https://www.dropbox.com/scl/fi/ly1lvsq0vtgmtl54fin8k/Kilauan-Emas-Selebriti-2026-Minggu-5.mp4?rlkey=e7owxjx6izctlb2wt3x5v09j6&st=hxj7jl2k&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/d4f9ilx87w06qx62bbt8e/kilauan-emas-selebriti.jpeg?rlkey=cf54y8cxmnvx1mm05e9hu06ut&st=ah1hur3f&dl=1", Kilauan Selebriti E6
+
+
+
+
+##################### Kudrat 1968 High Council
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/nwgkrxmuzu7yzf2cmx16n/Kudrat.1968.High.Council.jpg?rlkey=i65gevdnnfxljw24rkbaw3ump&st=91t1dbof&dl=1", Kudrat 1968 High Council E1
+https://www.dropbox.com/scl/fi/rwkbwfygf1qgfa6xox0hh/Kudrat.1968.High.Council.2026.EP1.mp4?rlkey=45h97bgqxzfifysfchwmq6a50&st=ygh3pxzd&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/nwgkrxmuzu7yzf2cmx16n/Kudrat.1968.High.Council.jpg?rlkey=i65gevdnnfxljw24rkbaw3ump&st=91t1dbof&dl=1", Kudrat 1968 High Council E2
+https://www.dropbox.com/scl/fi/kmf76r94min4aoy9k6z3p/4_5863725403901796460.mp4?rlkey=6a4b3wp9in45zd67y3ixr5cgn&st=8iliqpaj&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/nwgkrxmuzu7yzf2cmx16n/Kudrat.1968.High.Council.jpg?rlkey=i65gevdnnfxljw24rkbaw3ump&st=91t1dbof&dl=1", Kudrat 1968 High Council E3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/nwgkrxmuzu7yzf2cmx16n/Kudrat.1968.High.Council.jpg?rlkey=i65gevdnnfxljw24rkbaw3ump&st=91t1dbof&dl=1", Kudrat 1968 High Council E4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/nwgkrxmuzu7yzf2cmx16n/Kudrat.1968.High.Council.jpg?rlkey=i65gevdnnfxljw24rkbaw3ump&st=91t1dbof&dl=1", Kudrat 1968 High Council E5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/nwgkrxmuzu7yzf2cmx16n/Kudrat.1968.High.Council.jpg?rlkey=i65gevdnnfxljw24rkbaw3ump&st=91t1dbof&dl=1", Kudrat 1968 High Council E6
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/nwgkrxmuzu7yzf2cmx16n/Kudrat.1968.High.Council.jpg?rlkey=i65gevdnnfxljw24rkbaw3ump&st=91t1dbof&dl=1", Kudrat 1968 High Council E7
 
 
 
@@ -5086,6 +5129,58 @@ https://www.dropbox.com/scl/fi/lisk3sg58k6n180nmsz0v/Royal-Tramp-1992-CHINESE-10
 https://www.dropbox.com/scl/fi/7a5xoij8f4ah96esof6iy/I-Nobody.mp4?rlkey=a08900phva5ekseowabdege5z&st=m8zm022t&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/xdiuf94sk8l5rs5rtvslp/sengkolo-malam-satu-suro.jpeg?rlkey=5p0qbqlfi6pvsuf6hxbyrc7vk&st=ff6g00gl&dl=1", Sengkolo Malam Satu Suro
-https://www.dropbox.com/scl/fi/80e8lc9qfpzs94rmkyubf/Sengkolo.Malam.Satu.Suro.2024.1080p.MalaySub.WEB.MSM.mp4?rlkey=4dx9v0mju8sx2b9q0nm0bjgto&st=y3cme9nn&dl=1
+https://www.dropbox.com/scl/fi/2dz3nmdunl8tba6xpaqem/sengkolo-malam-satu-suro-2024.mp4?rlkey=x9ywc153utd28j1eeueajvuwo&st=95v09wg2&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/h1oxoof899fh0fq716io6/in-the-movie-sukma-2025-i-dont-speak-bahasa-indonesia-so-i-v0-z7bt398murhg1.jpeg?rlkey=p4e6a1tlbhdjlw10ngwi06l3m&st=ccwymrer&dl=1", Sukma
+https://www.dropbox.com/scl/fi/shdj84mbezq6f3mdfjcu7/4_5936186763520254161.mp4?rlkey=dnyxtfspsai37xozf9xawsa6j&st=bko9zkou&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/tmikujk3yhsf64gt072ef/safe.jpeg?rlkey=8cfw0s585cw1hzjxcadkxugoa&st=n4yv282i&dl=1", Safe 
+https://www.dropbox.com/scl/fi/e2m7ov1akfi6198svtbnp/Safe.2012.mp4?rlkey=zv3iee7xza4nxsxun8mgtj8li&st=t07ejmyu&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2jyhzlbtpcieotpuemrep/perjanjian-setan.jpg?rlkey=d9wwoo1cu912mlsss78adg71c&st=uu09b7ka&dl=1", Perjanjian Setan
+https://www.dropbox.com/scl/fi/uc1vxj2w51cwjqw4kmsoo/Perjanjian.Setan.mp4?rlkey=rq0n0t2a40sc0dhdtpgztybkj&st=1gpzcas1&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/295k2e2ym60bam2k5votl/tarung.jpg?rlkey=h3lgbzkvf8tgyb8usqf05zg2m&st=ee5nviey&dl=1", Tarung : Unforgiven
+https://www.dropbox.com/scl/fi/w4eg2fooamhx96yz2ckrj/Tarung_Unforgiven_2026.mp4?rlkey=rggcw0505oypz6jnqfd8999v8&st=n7i59c9y&dl=1
+##https://www.dropbox.com/scl/fi/w2gztepx91s7l90st40or/tarung-unforgiven-hd.mp4?rlkey=kzam1nh6kjvuxleptli6xk255&st=gpovw4xr&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/60px70m1fynypwbivixeq/libang-libu.jpg?rlkey=bndadme94nzrndts8ygz4xary&st=n64xao3h&dl=1", Libang Libu
+##https://www.dropbox.com/scl/fi/00nhudefzeqzrb9oo1bcv/Libang-Libu-2026.mp4?rlkey=v188bxnac70gggo0f3xm7gtge&st=ce7dhv5n&dl=1
+https://www.dropbox.com/scl/fi/3zibdr5t1x4oidk7keapv/Libang-Libu-2026-720p-WEB-DL-MalaySub-MVSVAP.mp4?rlkey=l9fexqv9jtmlqksfhsj38t0i5&st=dvhgxgre&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/eb1q3rs9kdy1uj8ceakzc/fall-2.jpg?rlkey=opa9ipuia7kxj4rp3kox8uj7e&st=1m0ivnk3&dl=1", Fall 2 : Deadpoint
+https://www.dropbox.com/scl/fi/ngjaf97wm8dmp7jzw1wj1/fall-2-deadpoint-2026.mp4?rlkey=sf9cmkmlvaji5483cakqf0m35&st=6k8enadw&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pgvdqzl1vt4jniml1mlag/pasific-rim-2013.jpg?rlkey=rrceaho7clku31dkkxn26nv2c&st=cwed0ejc&dl=1", Pasific Rim 2013
+https://www.dropbox.com/scl/fi/nub919dlfidyzikj7784o/Pasific-Rim-2013.mp4?rlkey=jelptt2ravhxamioceo1d9ob1&st=9hajexg1&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/omntxbutcfto6u6tai6kg/pasific-rim-2018.jpg?rlkey=h2x43cechv16zy7mh8dybo9tv&st=ob3v6zla&dl=1", Pasific Rim 2: Uprising 2018
+https://www.dropbox.com/scl/fi/fy9u84jfovajm2v01vreo/Pasific-Rim-Uprising-2018.mp4?rlkey=v5vxabjhpfrs2vkf0dt0jp1le&st=w7i1st3b&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/xhpp4q4o3fvn31l9rbtua/MV5BOWI5OTJlNjctOTFlZS00NmNjLTkzMDQtMWUwMWQ4NWNlODljXkEyXkFqcGc-._V1_-1.jpg?rlkey=mxsnnprxujxorlme3m0se7fy9&st=tdwp5wyq&dl=1", Polong
+https://www.dropbox.com/scl/fi/yivfhbzit0sxm7zuf746j/4_5861473604088111595.mp4?rlkey=b2baa3iwiqutqpteqz40rq9xm&st=djoq5t78&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/hk5tmvsdb10sivthvfutw/star-wars-the-mandalorian-and-grogu-0b0aa9ef.jpg?rlkey=4mqujviex9cfcobj5zg7hx3q8&st=isl3y2d2&dl=1", Star Wars 2026 : The Mandalorian and Grogu
+https://www.dropbox.com/scl/fi/ymzgy4orouv0frjvi9p6n/4_5821370957574447014.mp4?rlkey=nukhe9sv1czi4xqaodjideymq&st=iuc5be3d&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/h1djqu72157ujkmkzknh3/MV5BMmVlMzcwMzUtNDg3Mi00Mzg0LThjZmQtMzYzNWUzMGQ4NTZmXkEyXkFqcGc-._V1_.jpg?rlkey=h1vff5aidfs4wgqeb35xavd0m&st=9q8xrkvy&dl=1", Fourth Floor
+https://www.dropbox.com/scl/fi/vnyvpo3y7izdgm6qcfwmx/Fourth-Floor-2026-Submalay.mp4?rlkey=xmmqqgtcabetxqte3cswotmbz&st=t2vqgwww&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/28j26o3toiszqo2u3fe04/fuze.jpg?rlkey=oi3oj56puhhnexb2ltqulfsm1&st=qmwa5umg&dl=1", Fuze
+https://www.dropbox.com/scl/fi/d6t7ul0gr9erk08ktns5t/Fuze-2025.mp4?rlkey=tesrr1a68nhhd9o8knvczaxcm&st=lo6oiioh&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/suegxyn11cq1j5a02jxys/take-cover.jpeg?rlkey=9hb5mjbdf0t9oy25b8zvx71w8&st=tieegbcu&dl=1", Take Cover
+https://www.dropbox.com/scl/fi/5jjpdyk5045ppvof7q6je/Take-Cover.mp4?rlkey=cad0gmkfzprc2xjyyobi2x616&st=f2vl88wr&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/f02quv5zcmjx2lgw4g42b/MV5BMGRmYzg2NTUtMjc3Yy00Njc4LTliNTktM2I1NjVkNGIzYTU2XkEyXkFqcGc-._V1_.jpg?rlkey=qoe14i06rxldgt7ln21g3kjzv&st=yr5s0vwa&dl=1", Thirteen Lives
+##https://www.dropbox.com/scl/fi/81ll7py2ter3yzhy6o6xa/4_6010110233085480064.mp4?rlkey=qybhjjz0utkw5f8g1c7ud45na&st=xqrbaqxr&dl=1
+https://www.dropbox.com/scl/fi/g9xt09qt487hy568gnjg1/thirteen-lives-2022.mp4?rlkey=sonnttt0sr3mkt2vkhkrld06d&st=atlean4s&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/itj8yhlm3z3ve6b2u4dbu/Black-Box-Flight-298.jpg?rlkey=qg8d7hkfbmmsw212doy1jbmvv&st=g1xdknf3&dl=1", Black Box [Flight 298]
+https://www.dropbox.com/scl/fi/v8aezir36j6vdyj1lodkp/Black-Box-Flight-298-2026.mp4?rlkey=gtjrollvzecxw7dguvaov8s68&st=syjbjnkr&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1. Movie on September" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pht7vpv4n3tv8c6tjkeai/THE-Quake.jpeg?rlkey=ia85q0ry1ck89ytypzi3m1gl9&st=wcr9gmd0&dl=1", The Quake
+https://www.dropbox.com/scl/fi/lfv8f1p43e69yigya8nk8/The-Quake-2018-malaysub.mkv?rlkey=x3knkhdpfmqrmrlkagtbalpxf&st=0ac8n0t7&dl=1
+
 
 

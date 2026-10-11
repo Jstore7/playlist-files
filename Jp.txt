@@ -91,7 +91,7 @@ https://linears2-playback.astro.com.my/vsg/41K4UiAiCfC6NHD18FOIeb7NT2FyczL49Vibp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41GS4grT27f1-tt59boBNXSz5CravaFzGJrrx_w_ZWNBQ=RPtR/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41-afnWm0kglRYPn6MQlM3eHfGFdMj9TDpDKABP5PpmoM=U5_y/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 ##812
 #EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
@@ -108,7 +108,7 @@ https://linears2-playback.astro.com.my/vsg/41HbL2kcnQvEkZurIdvj95cfQb7QGsDYTWJ83
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41GPzqfsLLOimedCwy75ffciRhnH_ZdfFbTGPtZEry2vo=c0yb/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/415XtTn4tlBwf5sdqig1QMI5mQt5v9mywUxtafN7eJSBU=1_SY/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 ##BEIN1
 #EXTINF:-1 tvg-id="708" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 1 (Not 24H)

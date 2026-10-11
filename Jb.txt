@@ -299,7 +299,10 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 
 
 
-
+#EXTINF:-1 tvg-id="GTV.id" group-logo="https://iili.io/CN3tDy7.png" tvg-logo="https://i.ibb.co/zHPfb3j4/pngtree-red-live-sign-with-a-wi-fi-signal-icon-indicating-broadcast-png-image-17940960.webp" group-title="Sports", Liverpool vs Man City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 
 

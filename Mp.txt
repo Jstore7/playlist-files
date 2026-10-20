@@ -5153,7 +5153,7 @@ https://www.dropbox.com/scl/fi/6at49mlaff0nqv1bbbq5k/5_6176843109784101624.mp4?r
 https://www.dropbox.com/scl/fi/cf7khnaod36cf0s86m341/Gerak-Khas-2-0-2026-EP14.mp4?rlkey=vnvvuqww3mvwx6hwxu6mod1yx&st=347pq0cc&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E15
-
+https://www.dropbox.com/scl/fi/tty6rbrj84zpq80dzae5s/Gerak-Khas-2.0-2026-EP15.mp4?rlkey=um5aaau2fl5g0rc4ybjxdjshh&st=weju2i1z&dl=1
 
 
 
@@ -5245,9 +5245,21 @@ https://www.dropbox.com/scl/fi/sazm3axel8l8u5npib2p6/Andai-Masih-Ada-Maaf-2026-E
 https://www.dropbox.com/scl/fi/07efu8uq7qc41f2gpj1iw/Andai-Masih-Ada-Maaf-2026-EP11-MalaySub.mp4?rlkey=h6s9ttq11zr69aeqeq6rjzkxo&st=dn4bpbh9&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E12
-
+https://www.dropbox.com/scl/fi/k9rgu4pad0s83ude7lpyq/Andai-Masih-Ada-Maaf-2026-EP12-MalaySub.mp4?rlkey=yqhi2gr7epf2l6zh4tnh8ij9e&st=z1fxwmrn&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E13
+https://www.dropbox.com/scl/fi/3hvxq9inzp3hz3vtqm49h/Andai-Masih-Ada-Maaf-2026-EP13-MalaySub.mp4?rlkey=qpqarwby95ykjh0vem65w123b&st=i1j9g1oo&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E14
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E15
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E16
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E17
 
 
 
@@ -5339,3 +5351,32 @@ https://www.dropbox.com/scl/fi/tvmhju1pkzx5j57px3qjs/Boyka-Undisputed-4-2016-720
 
 #EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/72vit147yvaq8ewcohdy7/one-last-shot.jpg?rlkey=kx4axmxn3oqoinfdp97646ize&st=s7j05yjg&dl=1", One Last Shot
 https://www.dropbox.com/scl/fi/e5uivxg00vdyq8v5etal2/One.Last.Shot.2026.mp4?rlkey=0cbuq7clq9ruz94jawllchsdf&st=vr9aym0q&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/h4acmswxlpw514vemvjqr/Keyart_1.jpg?rlkey=wk9f8lle6mnt6yn0u5wmjibbx&st=vvk0hcu9&dl=1", Evil Dead Burn
+https://www.dropbox.com/scl/fi/1z9mtr8q8txx2zb9og4mz/4_6046519753185435193.mp4?rlkey=2d5uyy44m86ai9ut7hs92rpio&st=iwhiew8u&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/rrmivvd35veyhl6ddunwe/5fae7e63fc0a7efe02eded1a4c27ee862f245f2489bbdd168008a1e7c61f8c7e.jpg?rlkey=4zl7qr8dx5ca4cjje8x6tnafr&st=w15nmp4z&dl=1", Toy Story 5
+https://www.dropbox.com/scl/fi/msiuuw5moibwthr1a9yqw/4_5784993434980851271.mp4?rlkey=8962uqj72hmn5ssje68abxb4m&st=51159reh&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/m9ym81qutonddl3qbp0ne/MV5BZGE1NTA0NzAtNjJlOC00ZjMxLWJlOTItZjk5MDA5ZmRkNTBjXkEyXkFqcGc-._V1_.jpg?rlkey=blcm0w65gdsmz24btxip5xoyi&st=2cir4711&dl=1", Lembayung
+https://www.dropbox.com/scl/fi/phvz4vqmebl0phhvehxwi/4_5951687480880143760.mp4?rlkey=j1cid2qp5300ct601isllf4se&st=x70hh4rh&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/ewg2pwgkxvakebcyum759/ip-man-kung-fu-legend.jpeg?rlkey=wy3r5q83xogxngjtkpj1m82v1&st=j0r4chgo&dl=1", Ip Man Kungfu Legeng
+https://www.dropbox.com/scl/fi/mgh1z9mn6kbwitu9hlmc2/Ip-Man-Kung-Fu-Legend-2026.mp4?rlkey=7sc06hfddfihylizikzhvkl05&st=7a8n8xf5&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/zmprup36dzi2rp9eeaqj5/angikaaram.jpeg?rlkey=lvfaadnz5l0fupcg31yov7tgx&st=m8gmc5go&dl=1", Angikaaram
+https://www.dropbox.com/scl/fi/d17ua54lh87q3ilvkcj7f/Angikaraam-2026.mp4?rlkey=izrxo8n2h3sukx0rm3u3sicu3&st=jiiqu9bd&dl=0
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/ek8zlipbtnm4r6h220zrr/bodyguard-and-assasins.jpg?rlkey=xtv4oef6qs5ajj0y2n7lhpsfr&st=09p84y98&dl=1", Bodyguards and Assassins
+https://www.dropbox.com/scl/fi/xhpxcj3b2ah4exi2oz7x7/Bodyguards-And-Assassins-2009.mp4?rlkey=vaq4zl4l4rxkcfy0zz9pc4z5b&st=6yottoys&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/jvw34gc2k8f1ssh0snbd8/arulvaan.jpeg?rlkey=pgy4cmhg2fknq0cgcq9a2xh55&st=i06hpgow&dl=1", Arulvaan
+https://www.dropbox.com/scl/fi/ihuvaxok6n0epp8q33fvs/Arulvaan-2026.mp4?rlkey=5j7ut6egzwix5k2i85onw3eyg&st=xo71sadv&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo=" ", 
+
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo=" ", 
+
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo=" ", 

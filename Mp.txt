@@ -5251,7 +5251,7 @@ https://www.dropbox.com/scl/fi/k9rgu4pad0s83ude7lpyq/Andai-Masih-Ada-Maaf-2026-E
 https://www.dropbox.com/scl/fi/3hvxq9inzp3hz3vtqm49h/Andai-Masih-Ada-Maaf-2026-EP13-MalaySub.mp4?rlkey=qpqarwby95ykjh0vem65w123b&st=i1j9g1oo&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E14
-
+https://www.dropbox.com/scl/fi/fhco07g4h6pbyfvid6rk2/Andai-Masih-Ada-Maaf-2026-EP14-MalaySub.mp4?rlkey=tocdnte6t7a062faccxbibzxh&st=uxd7p0ps&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E15
 
@@ -5372,6 +5372,30 @@ https://www.dropbox.com/scl/fi/xhpxcj3b2ah4exi2oz7x7/Bodyguards-And-Assassins-20
 
 #EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/jvw34gc2k8f1ssh0snbd8/arulvaan.jpeg?rlkey=pgy4cmhg2fknq0cgcq9a2xh55&st=i06hpgow&dl=1", Arulvaan
 https://www.dropbox.com/scl/fi/ihuvaxok6n0epp8q33fvs/Arulvaan-2026.mp4?rlkey=5j7ut6egzwix5k2i85onw3eyg&st=xo71sadv&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/w2fj3gxgbh4ix061fyigd/dont-move.jpg?rlkey=c84ccqgfbzljsyvm90dxj5cip&st=op0ka5yy&dl=1", Don't Move
+https://www.dropbox.com/scl/fi/4b15twwhcl1j7cles9mc9/Dont.Move.2026.mp4?rlkey=lgfwnm1kwvm4f4makry1gmwbh&st=jtu56nyc&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/i46i3nzgjfkx5v7i6d4oy/KhongKhaek-2.jpg?rlkey=x1k1m5zixju8tyyuc7th1kbqf&st=ztqgzxx3&dl=1", Khong Khaek 2
+https://www.dropbox.com/scl/fi/ix2by8b0qhw8x2hz00vjs/khong-khaek-2.mp4?rlkey=kbth7aw9m52cy1ui34bxk8zuh&st=4l91qx56&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/rsqy1gwex7ct8hue75nmc/dilan-1990.jpg?rlkey=072z0jzt7mylg3wlsyd7i7ogs&st=w0hg7416&dl=1", Dilan 1990
+https://www.dropbox.com/scl/fi/b8hxqo4nxhewrhgsqmsgf/Dilan-1990.mp4?rlkey=1bv89skg67888pjxicttbilhk&st=3sqtwzql&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/6g2uzwa219hwnvkk78rz3/dilan-1991.jpg?rlkey=vc5ndw5mx8jzhjxzte9qz2vn3&st=brp75w7v&dl=1", Dilan 1991
+https://www.dropbox.com/scl/fi/4ypj30wxunyacnji5byjk/Dilan.1991.mp4?rlkey=vo5y0dff79q0gw5ixlxyu7b78&st=av79se10&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/ny71nmkkr8193k338fb9w/kuyank.jpg?rlkey=mmohl69xchaq1x9062zyp2ku2&st=csq8rl2y&dl=1", Kuyank
+https://www.dropbox.com/scl/fi/tesvlbwgqswdbgn8qqtpv/Kuyank.2025.mp4?rlkey=hectdll0l8b5jy6ivk15gaatp&st=uaykhlil&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/eoh9fnoenmi004ybmbicp/cerita-lila.jpg?rlkey=s95rer7rn14vbr7ngqji7b8kf&st=12rtw5q6&dl=1", Cerita Lila
+https://www.dropbox.com/scl/fi/yzmpgmhyhono5cddn6opb/Cerita.Lila..mp4?rlkey=58t88akgtc5xuswm1qexerw7s&st=lo8v03aw&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/d0jsgh4e8eiwgz0b3sm07/badut-gendong.jpg?rlkey=msqk0b3jplkl707mosotda9b4&st=ysbce0k9&dl=1", Badut Gendong
+https://www.dropbox.com/scl/fi/3mt8tgcsxx7ykusznx33z/Badut.Gendong.mp4?rlkey=ts3m7onyjlrrxoswife2hxv6b&st=puz2t8qv&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/k5n1q0hu9kpt4bhlkdn8s/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=yxznxanekst2pr7xmjobvtvpm&st=akw65dlm&dl=1", Lee Cronin's The Mummy
+https://www.dropbox.com/scl/fi/18zp69qhg61vekv8scdsm/4_5931242122291191284.mp4?rlkey=93k55n1443ly19cqkuqnuy119&st=2vf5bpl0&dl=1
 
 #EXTINF:-1 group-title="1. Movie on October" tvg-logo=" ", 
 

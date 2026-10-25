@@ -602,7 +602,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
 ##############################UNIFI TV#################################
 
+#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-logo="https://i.ibb.co/zHPfb3j4/pngtree-red-live-sign-with-a-wi-fi-signal-icon-indicating-broadcast-png-image-17940960.webp" group-title="SPORTS", 22:00 Liverpool vs Brighton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
+#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-logo="https://i.ibb.co/zHPfb3j4/pngtree-red-live-sign-with-a-wi-fi-signal-icon-indicating-broadcast-png-image-17940960.webp" group-title="SPORTS", 21:50 Man Utd vs Bournemouth 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 ################## SPOTV
 

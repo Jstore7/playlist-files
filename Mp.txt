@@ -5474,6 +5474,15 @@ https://www.dropbox.com/scl/fi/3mt8tgcsxx7ykusznx33z/Badut.Gendong.mp4?rlkey=ts3
 #EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/k5n1q0hu9kpt4bhlkdn8s/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=yxznxanekst2pr7xmjobvtvpm&st=akw65dlm&dl=1", Lee Cronin's The Mummy
 https://www.dropbox.com/scl/fi/18zp69qhg61vekv8scdsm/4_5931242122291191284.mp4?rlkey=93k55n1443ly19cqkuqnuy119&st=2vf5bpl0&dl=1
 
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/lze59d94rhekser29o7vq/moana.jpeg?rlkey=53zbd4vrsjn7spog6fh23vw7l&st=klatq63s&dl=1", Moana 2
+https://www.dropbox.com/scl/fi/g4j4jjuw7lqzilismw0bb/Moana.2026.mp4?rlkey=27fn8kfzc5bdktspqx55gzb8n&st=lrf6rxyb&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/k9z57sx3bo0yf13ncfuto/jangan-buang-ibu.jpg?rlkey=wc8nn1w2f7a2uawrgzpqygazg&st=1t1nnu5o&dl=1", Jangan Buang Ibu
+https://www.dropbox.com/scl/fi/74yniaeqcp4sf87938t4n/Jangan.Buang.Ibu.2026.mp4?rlkey=bgia9miqxpl0316x3q3w1wmzb&st=2mvwna04&dl=1
+
+#EXTINF:-1 group-title="1. Movie on October" tvg-logo="https://www.dropbox.com/scl/fi/zsivpgn0z6t6tremw565r/The-Dog-Stars.jpeg?rlkey=9qiftpvizkts2lrvlbbdgz1cv&st=7zr7iupv&dl=1", The Dog Stars
+https://www.dropbox.com/scl/fi/siovzi6v3ndtpq6johwgg/The.Dog.Stars.2026.mp4?rlkey=919ui7fm474qhhv7ik7eskhj2&st=6y29t2ws&dl=1
+
 #EXTINF:-1 group-title="1. Movie on October" tvg-logo=" ", 
 
 

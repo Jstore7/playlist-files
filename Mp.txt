@@ -94,7 +94,8 @@ https://www.dropbox.com/scl/fi/2fvxs5wxm243m57vlcwo3/Shang-Chi.mp4?rlkey=k9ige2t
 https://www.dropbox.com/scl/fi/i8ei0rqudvjr8qwvpvgp0/Doctor.Strange.2016.mp4?rlkey=n72jayqw0ujqxggpowm9gtxd5&st=bkyb1e1h&dl=1
 
 #EXTINF:-1 group-title="MARVEL" tvg-logo="https://www.dropbox.com/scl/fi/swjlm3ol424hw7a3ypo8i/17858882672003092356553249784272.jpg?rlkey=t66isczo0qr81glxf0ebdinw3&st=sdizmk83&dl=1", Spider-Man Brand New Day
-https://www.dropbox.com/scl/fi/l27hkv2e1lmh6oukcduvt/spiderman-brand-new-day.mp4?rlkey=bf2zxh93hpax577kau7708v76&st=1i7lndwl&dl=1
+##https://www.dropbox.com/scl/fi/l27hkv2e1lmh6oukcduvt/spiderman-brand-new-day.mp4?rlkey=bf2zxh93hpax577kau7708v76&st=1i7lndwl&dl=1
+https://www.dropbox.com/scl/fi/8tv8xxodkyz84l4ub4ws4/Spider-Man.Brand.New.Day.2026.2160p.MalaySub.WEB.MSM.mp4?rlkey=5dlyvtuv5dpm70axs77u1mvcg&st=ryjygc38&dl=1
 
 #EXTINF:-1 group-title="MARVEL" tvg-logo="https://www.dropbox.com/scl/fi/37veyuu1e6aabxihjb73e/Thunderbolts__poster.jpg?rlkey=m83az2f4zdsem2sth2zi1pcrv&st=25crr2wc&dl=1", Thunderbolts 2025
 https://www.dropbox.com/scl/fi/2dzuxb4ek4mux1qz99nat/Thunderbolts.mp4?rlkey=1ferz3o76d0aznetkxmgyxjcm&st=idrkta4x&dl=1
@@ -5155,6 +5156,13 @@ https://www.dropbox.com/scl/fi/cf7khnaod36cf0s86m341/Gerak-Khas-2-0-2026-EP14.mp
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E15
 https://www.dropbox.com/scl/fi/tty6rbrj84zpq80dzae5s/Gerak-Khas-2.0-2026-EP15.mp4?rlkey=um5aaau2fl5g0rc4ybjxdjshh&st=weju2i1z&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E16
+https://www.dropbox.com/scl/fi/nun7y8jiemd3aopzkmmid/Gerak-Khas-2-0-2026-EP16.mp4?rlkey=ke2n915hcqx5jxfpsh0p4tu66&st=yh425b0r&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E17
+https://www.dropbox.com/scl/fi/ls80v2l1gj5qufon4i9mg/Gerak-Khas-2-0-2026-EP17.mp4?rlkey=yz5b31qbybrc7gb6i9ayfw1uo&st=lnlcek91&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E18
 
 
 
@@ -5254,12 +5262,81 @@ https://www.dropbox.com/scl/fi/3hvxq9inzp3hz3vtqm49h/Andai-Masih-Ada-Maaf-2026-E
 https://www.dropbox.com/scl/fi/fhco07g4h6pbyfvid6rk2/Andai-Masih-Ada-Maaf-2026-EP14-MalaySub.mp4?rlkey=tocdnte6t7a062faccxbibzxh&st=uxd7p0ps&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E15
-
+https://www.dropbox.com/scl/fi/a8z5be2dkzt2qw1gbwlvg/Andai-Masih-Ada-Maaf-2026-EP15-MalaySub.mp4?rlkey=zmk2nlmrwm4cqk2815cu674qu&st=cqm6pxvr&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E16
-
+https://www.dropbox.com/scl/fi/0prwzpko6bqsp78cq53j6/Andai-Masih-Ada-Maaf-2026-EP16-MalaySub.mp4?rlkey=hbv749ck791dfk8u0p7419wsc&st=53ea7r3u&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E17
+https://www.dropbox.com/scl/fi/uqxllbbsywafdfxx6bnnk/Andai-Masih-Ada-Maaf-2026-EP17-MalaySub.mp4?rlkey=oqkl41cft7sg3tdbukmzi2fzr&st=j1majcvp&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E18
+https://www.dropbox.com/scl/fi/ov7eiaxuia2gole7ziz7w/Andai-Masih-Ada-Maaf-2026-EP18-MalaySub.mp4?rlkey=fql5d34jsce2wbmb45j5i8ma7&st=tkixmewg&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E19
+https://www.dropbox.com/scl/fi/2woodwie6v07xnsnq78yy/Andai-Masih-Ada-Maaf-2026-EP19-MalaySub.mp4?rlkey=z7rng640r3ir1jus8gzd2ezbf&st=rm46lc2j&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E20
+https://www.dropbox.com/scl/fi/4e8p8jmoworx370y500dg/Andai-Masih-Ada-Maaf-2026-EP20-MalaySub.mp4?rlkey=gh28a0j91tw5iexs2uuzpzx81&st=upa2w391&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E21
+https://www.dropbox.com/scl/fi/dqouwsrgri5huj4wcgb1p/Andai-Masih-Ada-Maaf-2026-EP21-MalaySub.mp4?rlkey=olx30951r9ub02caci96lh4hy&st=l6f3o2y1&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E22
+https://www.dropbox.com/scl/fi/i74fsazo13o0sa9at5dst/Andai-Masih-Ada-Maaf-2026-EP22-MalaySub.mp4?rlkey=x0l8r36qvte3fzusff7qpwysn&st=vjbd1buq&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E22
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E22
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E22
+
+
+
+
+
+
+
+
+####################################### Suamiku Anak Mak
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E1
+https://www.dropbox.com/scl/fi/9xpwle7srq601xers9dtj/Suamiku-Anak-Mak-2026-EP1-MalaySub.mp4?rlkey=udnp36e5hzfq71sr74avzo3ok&st=l3tqvljm&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E2
+https://www.dropbox.com/scl/fi/43mql33vu42z8z62n2d8c/Suamiku-Anak-Mak-2026-EP2-MalaySub.mp4?rlkey=c7yot6y3m0h0iqfsfkxpmlh4r&st=1w0egodn&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E3
+https://www.dropbox.com/scl/fi/sdwsqk8ucgtwxfnc3eefx/Suamiku-Anak-Mak-2026-EP3-MalaySub.mp4?rlkey=y6kxrst6lgpdilurpfgktcjhl&st=t7d6mu1p&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E4
+https://www.dropbox.com/scl/fi/nz14mw0htzn83yocc8955/Suamiku-Anak-Mak-2026-EP4-MalaySub.mp4?rlkey=uw32xchdlstjsjgxteao2rxop&st=nxqu3jk9&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E6
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E7
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E9
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E10
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E11
+
+
+
+
 
 
 

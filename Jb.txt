@@ -63,7 +63,7 @@ https://linears2-playback.astro.com.my/vsg/413E3ZsDJ8Auq1pULWitWvzmmSqTUETu9_Lyq
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41CHGvy73TJOv7cpuYlLU8QOvkDNqncrrg1nQFVDKQohQ=TZrp/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41CHGvy73TJOv7cpuYlLU8QCvtTaPhVCiKPXPo6hEAUR4=tpzH/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 ##811
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="SPORTS",811 Premier League HD (Not 24H)

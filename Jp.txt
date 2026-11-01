@@ -379,10 +379,13 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 
 
 
-#EXTINF:-1 group-logo="" tvg-logo="https://i.ibb.co/zHPfb3j4/pngtree-red-live-sign-with-a-wi-fi-signal-icon-indicating-broadcast-png-image-17940960.webp" group-title="SPORTS", 12:30 Liverpool vs Arsenal
+#EXTINF:-1 group-logo="" tvg-logo="https://i.ibb.co/bgSd4zNw/IMG-20261102-000313.png" group-title="SPORTS", 12:30 EPL Liverpool vs Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 group-logo="" tvg-logo="https://i.ibb.co/bgSd4zNw/IMG-20261102-000313.png" group-title="SPORTS", 12:30 EPL Liverpool vs Arsenal
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
 
 

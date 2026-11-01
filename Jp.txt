@@ -13,15 +13,14 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://abeott.short.gy/dASy
-http://194.233.70.2:8080/live/yusman18/yusman1234/18737.ts?token=ThVQUhcNRggRUAoDVAYGW1daUAUIB1ZSVQEDCwVUUgIDBFwCXVcCVwRHHhARQEBcUw9qWFQUD1cPUwEOSBVDR1BFZ1oAR14QBVEGEE4WRlBfBxcLAQEMVQJVCgxRAxoWRV5cEV5HUAoFUQUCQBgQXEoWUENeV1k5UwFEUAdSFA5bQlRfSEcLXGwBV18DWlYbCEAFExwUXBVHRghXEVtaGBdVUUcWBBBXEV8QA1QCARseQFZeRVhBFE5GCBspbhQYF1JARwELF1tcCxAIQEBBGx5AXEJvRFAVQxZXWAlSRBYPFQgRSEcJU0s6UV0MWldaRgtaX0MUD0QGRh4bCVhYXUFYSmwUDAAQCUcAAlIAEEQ=
+https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaVDEgwLEXhj1jL_QIFjfD7w=d8gl/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 ##105
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.1363312843 Safari/537.36
-https://abeott.short.gy/brqA
+https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXhaW-HT0Yqz_p0Idjt1txXsI=5lMH/dash-wv/jitp-linearwm/1000/default_ott.mpd
 
 ##108
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
@@ -30,7 +29,7 @@ https://abeott.short.gy/brqA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.9628920736 Safari/537.36
-https://abeott.short.gy/3ie7
+https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMeFWFdDziEouVX6lIjI8W28=9Mdp/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 ##113
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="HOT CHANNEL", 113 Aura HD (Not 24H)
@@ -103,7 +102,8 @@ https://abeott.short.gy/lc47
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://abeott.short.gy/EymF
+https://linears2-playback.astro.com.my/vsg/41CHGvy73TJOv7cpuYlLU8QLJ7kusjhOvok14GjKGAhJk=GlU6/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
 
 ##811
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="SPORTS",811 Premier League HD (Not 24H)
@@ -112,7 +112,7 @@ https://abeott.short.gy/EymF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41VWXC05Zqwh4DawFkuFLaCOURcoIEVKdFOuOJ5nHAjJY=siYH/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41vkvt4P_KNWTcadfm8fpjzrsuLLDOpNx8PeSDsPlVH2g=9i0s/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 ##812
 #EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
@@ -122,7 +122,7 @@ https://linears2-playback.astro.com.my/vsg/41VWXC05Zqwh4DawFkuFLaCOURcoIEVKdFOuO
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41XlsxlHKOOHOFQwnW3uJCZrbUo7XwTtQbyHXPpb9I820=ht31/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41ku-Hkh0infF-pAGIDDDOPpzhw_Gg6JFfvDIVNBC4uSM=uqH4/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" ch-number="813" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",813 Premier League 3 HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -151,6 +151,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
+
+##SKYSPORTSEPL
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png", SkySports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274&scheme=https
 
 ##BEIN1
 @#EXTINF:-1 tvg-id="708" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 1 (Not 24H)

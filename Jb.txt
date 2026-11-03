@@ -13,7 +13,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
-https://linears2-playback.astro.com.my/vsg/41u07KUAJPJwBZccHBNf4978NPRlx1pcLi4UZpw7AyOEY=O4UK/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41zkCtPv3xL0DfxSHm8-R2aN-c8cHt4w4aNvKuMaF18y0=Bv65/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 ##308
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" ch-number="308" tvg-id="AstroQJ" group-title="CHINESE" tvg-logo="https://i.ibb.co/8DxMBZqG/astro-qj-logo-2023-present-by-astrologo2003-dgl7f1v-fullview.jpg",308 QJ HD (Not 24H)

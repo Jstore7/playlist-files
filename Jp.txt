@@ -13,14 +13,14 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36|x-stream-auth=aDXAeW7nTZt9
-https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaX1pNQ5osEWWeDiKkl9r3i4=qJtr/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaePS_FdqFv3fKkXqfLG6Aes=ZBWW/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 ##105
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36|x-stream-auth=aDXAeW7nTZt9
-https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXhWjvH3qQiLJzE7S1G31WM6o=gobd/dash-wv/jitp-linearwm/1000/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXhe3hz1L-Nux94IY1QOc25Bs=ByPh/dash-wv/jitp-linearwm/1000/default_ott.mpd
 
 ##108
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
@@ -29,7 +29,7 @@ https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXhWjvH3qQiLJzE7S
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36|x-stream-auth=aDXAeW7nTZt9
-https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMbfmJviujyPJX-aRiUwxobw=qeJO/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMW9a5PDI3XBOhzTd_njY8GQ=PNJc/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 ##113
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="HOT CHANNEL", 113 Aura HD (Not 24H)

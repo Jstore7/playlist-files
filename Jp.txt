@@ -13,7 +13,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaSX_kvkL4o44K3wE0odjcVA=GlKf/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaTPbFmFNWdEp9rOL_tSwQ2k=X7zT/dash-wv/jitp-linearwm/1004/default_primary.mpd
 ##https://abeott.short.gy/UFJ2
 
 ##105
@@ -21,7 +21,7 @@ https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaSX_kvkL4o44K3w
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXheWJPAzFYo7gq0lgqu5PKOE=O9uz/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXhfnjq6Y5afQbgqfOI6zrYvo=HP8c/dash-wv/jitp-linearwm/1000/default_primary.mpd
 ##https://abeott.short.gy/UO49
 
 
@@ -32,7 +32,7 @@ https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXheWJPAzFYo7gq0l
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMaz0KXGthvEr8eGXCCVs6eU=xGlu/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMSlUmVGbcOq_COuF4tklyKo=qvPt/dash-wv/jitp-linearwm/2700/default_primary.mpd
 ##https://abeott.short.gy/CWG6
 
 
@@ -43,7 +43,7 @@ https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMaz0KXGthvEr8eG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41vkvt4P_KNWTcadfm8fpjzgorEYALsWQkY6yPA26ViLM=lF9a/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41vkvt4P_KNWTcadfm8fpjzgin0ebYee_1Hh5gTellcXI=iDud/dash-wv/jitp-linearwm/601/default_primary.mpd
 ##https://abeott.short.gy/maintain
 ##https://abeott.short.gy/Ofsz
 
@@ -55,7 +55,7 @@ https://linears2-playback.astro.com.my/vsg/41vkvt4P_KNWTcadfm8fpjzgorEYALsWQkY6y
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ku-Hkh0infF-pAGIDDDOPpoL77Rk7nhdRRyl-zDLudA=RvrK/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41ku-Hkh0infF-pAGIDDDOPoCOSxivYL2JJtlWbZxjq3g=VfJ3/dash-wv/jitp-linearwm/2104/default_primary.mpd
 ##https://abeott.short.gy/maintain
 ##https://abeott.short.gy/e0lI
 

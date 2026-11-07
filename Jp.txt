@@ -13,14 +13,17 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://abeott.short.gy/UFJ2
+https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfafivhH5q7z1k4xEZVqzjiKE=ijhy/dash-wv/jitp-linearwm/1004/default_primary.mpd
+##https://abeott.short.gy/UFJ2
 
 ##105
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://abeott.short.gy/UO49
+https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXhUIjjTuNsBZsHhdzsuqYuT0=SMBb/dash-wv/jitp-linearwm/1000/default_primary.mpd
+##https://abeott.short.gy/UO49
+
 
 ##108
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
@@ -29,7 +32,9 @@ https://abeott.short.gy/UO49
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://abeott.short.gy/CWG6
+https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMTYdG-35RmMYsWcCMYBC-hc=Avbp/dash-wv/jitp-linearwm/2700/default_primary.mpd
+##https://abeott.short.gy/CWG6
+
 
 ##811
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="SPORTS",811 Premier League HD (Not 24H)
@@ -38,9 +43,9 @@ https://abeott.short.gy/CWG6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://abeott.short.gy/Ofsz
-https://linears2-playback.astro.com.my/vsg/41vkvt4P_KNWTcadfm8fpjzoa1f2uUqbhAO7Q_dG_5dnQ=jwHp/dash-wv/jitp-linearwm/601/default_primary.mpd
-https://abeott.short.gy/maintain
+https://linears2-playback.astro.com.my/vsg/41vkvt4P_KNWTcadfm8fpjzk72r5sId_HV7VOJR6FlozQ=gDPx/dash-wv/jitp-linearwm/601/default_primary.mpd
+##https://abeott.short.gy/maintain
+##https://abeott.short.gy/Ofsz
 
 ##812
 #EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
@@ -50,10 +55,9 @@ https://abeott.short.gy/maintain
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://abeott.short.gy/e0lI
-https://linears2-playback.astro.com.my/vsg/41ku-Hkh0infF-pAGIDDDOPrNiZU3bUR3TE-Ti8cYGWO4=EGD0/dash-wv/jitp-linearwm/2104/default_primary.mpd
-https://abeott.short.gy/maintain
-
+https://linears2-playback.astro.com.my/vsg/41ku-Hkh0infF-pAGIDDDOPkyw4G0p95rw0UQq6BfwZe8=7Vnk/dash-wv/jitp-linearwm/2104/default_primary.mpd
+##https://abeott.short.gy/maintain
+##https://abeott.short.gy/e0lI
 
 
 

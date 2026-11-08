@@ -49,25 +49,27 @@ https://abeott.short.gy/Uqwt
 
 ##811
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="SPORTS",811 Premier League HD (Not 24H)
-https://abeott.short.gy/maintain
+##https://abeott.short.gy/maintain
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41nWVRPzOZkiwS7iJEAorul8HrW_WLwX79UI7KGGxRAPY=dchh/dash-wv/jitp-linearwm/601/default_primary.mpd
-https://abeott.short.gy/Ofsz
+https://abeott.short.gy/SpiG
+##https://linears2-playback.astro.com.my/vsg/41nWVRPzOZkiwS7iJEAorul8HrW_WLwX79UI7KGGxRAPY=dchh/dash-wv/jitp-linearwm/601/default_ott.mpd
+
 
 ##812
 #EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
-https://abeott.short.gy/maintain
+##https://abeott.short.gy/maintain
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/419qeBKU4J9An9uZohEw42n7STFX9vrYOTV4dIRdS7uzs=7ErN/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://abeott.short.gy/SBWx
+##https://linears2-playback.astro.com.my/vsg/419qeBKU4J9An9uZohEw42n7STFX9vrYOTV4dIRdS7uzs=7ErN/dash-wv/jitp-linearwm/2104/default_ott.mpd
 ##https://abeott.short.gy/e0lI
 
 

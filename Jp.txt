@@ -507,8 +507,26 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/672WTf9X/abeott.png" tvg-logo="https://i.ibb.co/d0vtn8SY/41de7763b09c771b14c8eb302b9bc4d2.gif" group-title="SPORTS", 01:30 EPL Nottingham Forest vs Man City
-http://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/672WTf9X/abeott.png" tvg-name="Premier League TV" tvg-logo="https://i.ibb.co/d0vtn8SY/41de7763b09c771b14c8eb302b9bc4d2.gif" group-title="SPORTS",22:00 Sunderland vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/672WTf9X/abeott.png" tvg-name="Premier League TV" tvg-logo="https://i.ibb.co/d0vtn8SY/41de7763b09c771b14c8eb302b9bc4d2.gif" group-title="SPORTS",22:00 Crystal Palace vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/672WTf9X/abeott.png" tvg-name="Premier League TV" tvg-logo="https://i.ibb.co/d0vtn8SY/41de7763b09c771b14c8eb302b9bc4d2.gif" group-title="SPORTS",12:30 Manchester United vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+@#EXTINF:-1 tvg-id="PremierLeagueTV.id" tvg-name="Premier League TV" tvg-logo="https://i.ibb.co/d0vtn8SY/41de7763b09c771b14c8eb302b9bc4d2.gif" group-title="SPORTS",Premier League V
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+https://vidio-bolatv.flyins.my.id/vidplay?id=9353
 
 
 

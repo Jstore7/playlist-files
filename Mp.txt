@@ -1,10 +1,140 @@
-############### AJL40
+################ HBO Max
 
-#EXTINF:-1 group-title="AJL40 2026" tvg-logo="https://www.dropbox.com/scl/fi/g9lwquh43jbgzcajd82y6/17872962292325829125667419729586.jpg?rlkey=crb7fqqcbcfsln4nlc3znn9uz&st=m2bxuo6o&dl=1", AJL40 1
-https://www.dropbox.com/scl/fi/i5iyjn6sx8k215544gkjw/4_5996969763463503350.mp4?rlkey=g9j2o91mkwwo2yvchi2knzqad&st=kao34peq&dl=1
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/nay5kkaxo3yhlvwj078ls/Dangerous-Game-The-Legacy-Murder.jpg?rlkey=fcjqc5p7jwlu5w08zcxjtcvjc&st=nnwqy8g0&dl=1", Dangerous_Game_The_Legacy_Murders
+https://www.dropbox.com/scl/fi/2pc4z66wg7qaheou14wau/Dangerous_Game_The_Legacy_Murders_2022_1080p_WEB_DL_MalaySub_-c.mp4?rlkey=oaryemk0wp3ecm9cr9l5k2p9e&st=wmxpbkus&dl=1
 
-#EXTINF:-1 group-title="AJL40 2026" tvg-logo="https://www.dropbox.com/scl/fi/g9lwquh43jbgzcajd82y6/17872962292325829125667419729586.jpg?rlkey=crb7fqqcbcfsln4nlc3znn9uz&st=m2bxuo6o&dl=1", AJL40 2
-https://www.dropbox.com/scl/fi/i22ichu29rxbphjq07x44/2.mp4?rlkey=jwf814x0ocqr02upcttatv3rk&st=mi1jy1fk&dl=1
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/tplwd6cieraauil1fbidl/Dracula-Untold.jpg?rlkey=r6i7yp2jv10wug1svd2v9lh9m&st=dpi6ho5y&dl=1", Dracula Untold
+https://www.dropbox.com/scl/fi/rl65mh69mxiw482pib5te/Dracula.Untold.2014.720p.BluRay.MalaySub.MSM.mp4?rlkey=4pivwqg6g6b27zckks9nhanb3&st=d76gby9y&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/26fd8wn3whsnpg6gxaxbv/Doctor-Sleep.png?rlkey=thkby3j3syn4uhu9nnukmfdev&st=6owihckg&dl=1",Doctor Sleep
+https://www.dropbox.com/scl/fi/aou78emgp3hg0ot0rrawd/Doctor.Sleep.2019.720p.WEB.MalaySub.MSM.mp4?rlkey=gehn9xbs8kat6ammorfjrsyv5&st=0h099fiu&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/st80sj0xng8n8g43z76fd/Indiana-Jones-and-the-Last-Crusade.jpg?rlkey=9d6w7jlme980vc8h025okm9ew&st=rgd9dad6&dl=1", Indiana_Jones_And_The_Last_Crusade_1989
+https://www.dropbox.com/scl/fi/ulad0n5jyyt68r4ob2v29/Indiana_Jones_And_The_Last_Crusade_1989_1080p_BR_MalaySub_MSM.mp4?rlkey=y1y64zxfapqnppl4j4hst9jex&st=4atr5n2s&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/r84yw0za5ct7r4bpudla8/Indiana-Jones-and-the-Temple-of-Doom.jpg?rlkey=qr3e90p4va1qf7h5zklticj3i&st=xf0ty9p6&dl=1", Indiana_Jones_And_The_Kingdom_of_the_Crystal_Skull_2008
+https://www.dropbox.com/scl/fi/i1kviipfshvcpp28nvoqu/Indiana_Jones_And_The_Kingdom_of_the_Crystal_Skull_2008_1080p_BR.mp4?rlkey=5uhergk2jvyrals4ej5l4qq09&st=kin7x1rk&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/erhzvkrsmmupf558vfr9o/indiana-jones-and-the-dial-of-destiny.jpeg?rlkey=bpmjgfiuqw2zfpwu2ja1laj6i&st=05herxzf&dl=1", Indiana_Jones_And_The_Dial_Of_Destiny_2023
+https://www.dropbox.com/scl/fi/n7ayfw172ougmmbbolc73/Indiana_Jones_And_The_Dial_Of_Destiny_2023_1080p_BR_MalaySub_MSM.mp4?rlkey=lm9t7qhrvofmmxyi0pttzg2d2&st=mjwgsgzq&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/7ok25c0dw6wtzvfyju7eb/scream-7.jpeg?rlkey=6iy7cjtse5tajm4ga1iy9h2zd&st=s5vjl815&dl=1", Scream 7
+https://www.dropbox.com/scl/fi/b5rry9mk97fvnog2331of/Scream.7.2026.720p.MalaySub.BR.MSM.mp4?rlkey=lidsc0wwtkovygvcrkbpzk1t0&st=peeux8c8&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/w4k7p0mggszalc4huxr37/reminders-of-him.jpeg?rlkey=8rvhgk6nvh8bb8u1r19mvngau&st=yke2wmez&dl=1", Reminders of Him
+https://www.dropbox.com/scl/fi/d8fhfpazwi7t1nnl41u2c/Reminders.of.Him.2026.720p.MalaySub.WEB.MSM.mp4?rlkey=ol2wuyx1fcztpoyckddhu52ea&st=789ho0jr&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo="https://www.dropbox.com/scl/fi/fqu3fxochghmp3npmjdhj/supergirl.jpg?rlkey=b6h12wuqk6g4ehfqbm2l5sz8d&st=jh6m407j&dl=1", Supergirl
+https://www.dropbox.com/scl/fi/blcby4pkb5s88qv80onxv/Supergirl-2026-720p-WEB-DL-MalaySub.mp4?rlkey=unw5r8d50nwtl73m9xsmdmwhx&st=0mgzm33b&dl=1
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo=" ",
+
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo=" ",
+
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo=" ",
+
+
+#EXTINF:-1 group-title="Jstore- HBO Max" tvg-logo=" ",
+
+
+
+############### Kids
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/fu5kemmf1envkws08qceg/17441955163568938144062073120135.jpg?rlkey=03k960ci21icncbgjs6uu7rzz&st=6un9xqls&dl=1",A Minecraft Movie 2025
+https://www.dropbox.com/scl/fi/nukn4r6wid653n2rdpmkh/A-Minecraft-Movie.mp4?rlkey=od8qix5xvicdl034z1fdz579n&st=tke25k00&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/i7ry35j7wmfso009q2w81/Avatar-Aang-The-Last-Airbender.jpg?rlkey=h70z8qc5kfdsabz61b9mflxsd&st=8y0bzotc&dl=1",Avatar Aang: The Last Airbender
+https://www.dropbox.com/scl/fi/r7iupfve4fokpvmgozn0v/Avatar-Aang-The-Last-Airbender.mp4?rlkey=w78yrj9vhk6p112hv2apxjja0&st=8dhhgc58&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/d6ybz3ml6rtpo4pbu4qmz/17665883713193362417724633771267.jpg?rlkey=dhou6c4w43fabe3y3lz7qb0tj&st=fa8uojc2&dl=1", Bumblebee 2018
+https://www.dropbox.com/scl/fi/dojj5gyier7w7dr7d4959/bumblebee.mp4?rlkey=9or6k4dnc0uulza1k5rksqy8q&st=56p98q47&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/nq0kehvyxku9vkcb8qyfv/Cloudy.with.a.Chance.of.Meatballs-2.jpg?rlkey=z1twca40n05x9yin6gmi5ob6p&st=f330o3mh&dl=1",Cloudy With a Chance of Meatballs 2
+https://www.dropbox.com/scl/fi/dkcw3n9drbpccyn05hn75/Cloudy_With_A_Chance_Of_Meatballs_2_.mp4?rlkey=bx1z86yoxa0kqdm2ynk0xipw6&st=hhfmubwn&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/v5phcrafyd71reg1pfpkv/17398797130112492344828825698924.jpg?rlkey=6lcn9oz8wtowbod1rh5gytu6k&st=kwbx1yag&dl=1" group-title="Jstore-Top Netflix", Cocaine Bear 2023
+https://www.dropbox.com/scl/fi/levxtwnfx8va46823pkgq/cocaine-bear.mp4?rlkey=13vkhnn2z2b2hg3ike1nq3vs8&st=apgst8lb&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/wbyj5iw7j9c7tcxccu1rl/coco.jpeg?rlkey=q8pgsnvphsqqxl68m47gz7i9k&st=zzzbhir1&dl=1",Coco 2017
+https://www.dropbox.com/scl/fi/st5jygavmxcd2kqm7rrbl/Coco.2017.mp4?rlkey=zi3uqnmlcihlpaimd5efxgmzj&st=6xt0qzax&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/lfv9gz6bb4top6wjn42iu/17444827675545449103165183540954.jpg?rlkey=ssrgvxnpxdsimg39rft5mt631&st=rci6l9r6&dl=1", Dongeng Sang Kancil 2024
+https://www.dropbox.com/scl/fi/7gthfrz6p4tkj8x1ge5rg/dongeng-sang-kancil.mp4?rlkey=6fk86he70zp9tkixdzzkfrkyl&st=3zuwz6px&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/xg1z4w057nj18c77ucbm2/17481723458136478499081910975985.jpg?rlkey=hto4lx06gkznkdjlraer3z9a4&st=bc1d83wg&dl=1", Ejen Ali The Movie 2019
+https://www.dropbox.com/scl/fi/tyndsifusk2g8olp1vtrd/ejen-ali-the-movie-2019.mkv?rlkey=b9uzm4u98x44e4w9m4mjeqz3y&st=1d24udr4&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/f22drp7stw9f1vxdowozm/17594692441988147287683024327898.jpg?rlkey=65v3ne4xkhz3cfkbyk832kq7m&st=pyixxa66&dl=1", Ejen Ali The Movie 2 2025
+https://www.dropbox.com/scl/fi/xkkqjqwm17dyn3z7b9x1k/ejen-ali-the-movie-2.mp4?rlkey=hyr09nfqol9a4hq0tcl01pi5n&st=9ookibp9&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/v088vupmom4c7x7yiyged/17587881299823183559161468570396.jpg?rlkey=qfx52zgmtlj681757jtxesz3w&st=uo0sg1w1&dl=1", Elio 2025
+https://www.dropbox.com/scl/fi/dliph11mj5choaz0tqvux/elio.mp4?rlkey=k26qtoktkrq9nga7084567zig&st=jjqvx3zp&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/9kj2tczewqqyba817w6jv/17665884014078806214666399648222.jpg?rlkey=tmn96d33h8cgdrrd1ujkj8om7&st=0ixikac9&dl=1", Migration 2023
+https://www.dropbox.com/scl/fi/0gjocci5wnku4lunv9x1p/migration.mp4?rlkey=98b58a4sudnnh260b2c40wvf4&st=2sxa0bxm&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/o1e9970nuaih47ivf44g3/Minions-Monsters.jpeg?rlkey=qfxk11j3d7w4gfcocew6y1wah&st=jtp6x5w6&dl=1",Minion and Monster
+https://www.dropbox.com/scl/fi/364rki86vxknu3k4lughs/Minions-and-Monsters.mp4?rlkey=dy4sw63jrjpjz6snr24yxwtdb&st=ncnacujs&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/8ec8ucdvxhutg874ql5ku/minion-2022.jpg?rlkey=ojugf1htb2wuf7ce7iup8fx05&st=cdjqg1ku&dl=1",Minions The Rise of Gru 2022
+https://www.dropbox.com/scl/fi/dpklgkkk6mf1k72qc4fkm/Minions_The_Rise_of_Gru_2022.mp4?rlkey=ph4og1qsqxwv0g4pk7vxd7qe8&st=l2xrek4z&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/lze59d94rhekser29o7vq/moana.jpeg?rlkey=53zbd4vrsjn7spog6fh23vw7l&st=klatq63s&dl=1", Moana 2
+https://www.dropbox.com/scl/fi/g4j4jjuw7lqzilismw0bb/Moana.2026.mp4?rlkey=27fn8kfzc5bdktspqx55gzb8n&st=lrf6rxyb&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/cnsuoyym5iu7iv7qhyskz/IMG_20261006_151341_466.jpg?rlkey=lhv2l9lqwo20t50bolfqqjbhn&st=356j2re4&dl=1",Monsters 2002
+https://www.dropbox.com/scl/fi/la4rw7nvjdjm24v52dzcs/5_6204152461767213993.mp4?rlkey=t5p49safuwrpsnfi00mn50gaj&st=7fnw19yg&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/y38le3i9lew9bi0ayhhde/IMG_20261006_151340_955.jpg?rlkey=ydkcgcthzsp3zhsclhocssxfa&st=5ps3ywql&dl=1",Monsters University
+https://www.dropbox.com/scl/fi/pg9ygvpkx4raoxeocjtbd/4_5947420817418620103.mp4?rlkey=tec3lwsqppkijlwvfby3htg9j&st=tasu4k3a&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/9m050yl95hxkx13euw3ep/17739294008668310327711831451466.jpg?rlkey=pmbzoidmiu65vw3brogisml4x&st=pn2v7ph7&dl=1", Papa Zola The Movie
+https://www.dropbox.com/scl/fi/4atunnc5kvdp2cnwfvfa4/papa-zola-the-movie.mp4?rlkey=ve7h6comijxs9t3uyzhto97yc&st=p3pjmgrn&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/kbimeq09il9xnku1q4gq4/The-SpongeBob-Movie.jpg?rlkey=mpjzc1zfcoa4qnn2olqsmmm09&st=jvwkqnzn&dl=1",The SpongeBob Movie: Search for SquarePants
+https://www.dropbox.com/scl/fi/io0o9vya3fe4ip7aqmhnu/The_SpongeBob_Movie_Search_for_SquarePants.mp4?rlkey=4k6q7ij0vdy4efexo88gyf3ck&st=13mds9t2&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/3p4mkcfruc1i5o32uzm89/Plankton-The-Movie.jpg?rlkey=vo7ztzl3nnael38iyibnxfxv1&st=odyk2x4f&dl=1",Plankton: The Movie
+https://www.dropbox.com/scl/fi/jhkn6p3id4slcohdvhjc3/Plankton-The-Movie.mp4?rlkey=jvlmjpyzafwzv5r0d89mh0xkc&st=7bwyuhe5&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/lmzuu4869f56cr1zkigzi/17475046602665189413984093861710.jpg?rlkey=6c1j1mhh5rl3ram3co400o3k7&st=dzvnhrlo&dl=1", Snow White 2025
+https://www.dropbox.com/scl/fi/qkd6eid3ktt7l6hadgcl8/snow-white-2025.mp4?rlkey=zplhawaqzgs0x5qi0aq4gdhtr&st=kuiy4kk0&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/7yicv34fs63590jku039b/1739668059352920604769934594726.png?rlkey=bo9fjd4x0m24sxi69vv9qfejh&st=fn0g55fp&dl=1",Sonic The Hedgehog 3 2024
+https://www.dropbox.com/scl/fi/mx6798cn5ukvww8n3pacn/sonic.mp4?rlkey=wsj6fowuec67ikbhbljky3a72&st=6e0ag9q8&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/gezflq4orqnjp5ivbt4zp/17540209601791906032400377716417.jpg?rlkey=3901p7fudy0vrlg7h5hhqu64n&st=uoixr5wk&dl=1", The Fantastic Four First Steps 2025
+https://www.dropbox.com/scl/fi/813ijpbmgm3gp3w14w55b/fantastic-four-2025.mp4?rlkey=dlydbnixjo0cfr9lno6hb204u&st=iva6hfgj&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/8x3m3cul4s33bgxbn39jo/17783856278405800391875409284013.jpg?rlkey=e25rjojle65gamtbir0z97lzl&st=azfga7su&dl=1", The Super Mario Galaxy Movie 2026
+https://www.dropbox.com/scl/fi/nhg4s27bjxm92k36qjxam/the-super-mario-galaxy-movies-2026.mp4?rlkey=711mo4vpirtcxktqrhlzqe258&st=ccsoxqzj&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/mfh9gza3bpf4yiu72bkxj/17445099531345395086388627433039.jpg?rlkey=bzah1apd67inw77r8oxz53xwr&st=a4jb2xml&dl=1", The Wild Robot 2024
+https://www.dropbox.com/scl/fi/k9w5a95vx0udcr2cw3uyq/the-wild-robot.mp4?rlkey=21okg5q9bip5a2wnd8dufdc5o&st=mc2c4lvi&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/bexd124i7nv0w0lp4bxrz/17772921419485344351616532660575.jpg?rlkey=vyksblt257kkqdkm5wuftzrcw&st=wtnwvsj6&dl=1",Toy Story 4 2019
+https://www.dropbox.com/scl/fi/jwnv3xny8imfi4ss9quxv/toy-story-4.mkv?rlkey=qnjdusu3xd0f6hnl9p2v010wx&st=hoqwv71b&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/y5hmeoclpzy0kg9ruocz3/TRANSFOMER.jpeg?rlkey=053mntoytze0pobr7f124bitx&st=jlacuh9p&dl=1", Transformers One (2024)
+https://www.dropbox.com/scl/fi/xu3ucux4fxak3qz1ov34v/Transformers-One-2024-1080p-WEB-MalayDub.mp4?rlkey=u9m982csgkejlhcz37z94r5x2&st=em6e6s5v&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/rrmivvd35veyhl6ddunwe/5fae7e63fc0a7efe02eded1a4c27ee862f245f2489bbdd168008a1e7c61f8c7e.jpg?rlkey=4zl7qr8dx5ca4cjje8x6tnafr&st=w15nmp4z&dl=1", Toy Story 5
+https://www.dropbox.com/scl/fi/msiuuw5moibwthr1a9yqw/4_5784993434980851271.mp4?rlkey=8962uqj72hmn5ssje68abxb4m&st=51159reh&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/3qo7omhm05nm7c7fgfkl3/17512899212917344587499441021433.jpg?rlkey=h05xvjz05um4ombsyto37v7a3&st=gq1enyg3&dl=1", Word Bubble Up Like Soda Pop
+https://www.dropbox.com/scl/fi/egec3nk544r5265ir97rd/word-bubble-up-like-soda-pop.mkv?rlkey=sc0papqdd6sm8isu3gttpvwej&st=exo9eq64&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/apr1yecjxry03t1t9nkpu/Hoppers.jpg?rlkey=l3fhw52177k3ek56m3z8lxtqs&st=uvm1q50j&dl=1",Hoppers
+https://www.dropbox.com/scl/fi/teg68bkjj5ggzf4ip28lx/Hoppers.mp4?rlkey=kw3p5hq7wwjar14i301npldbe&st=dvyqq1el&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/mhi4ed3qugs58f4x8xymw/17694280354118373209533499907616.jpg?rlkey=bztgo3ij740dedlztf1g7a2bx&st=ces52md3&dl=1", Zootopia 2 2025
+https://www.dropbox.com/scl/fi/9te62j8ajepyhppavwcp3/zootopia-2.mp4?rlkey=ruqk63mnvpa3fqz7cta9g0ek4&st=skvx4j1n&dl=1
+
+#EXTINF:-1 group-title="Jstore- Kids" tvg-logo="https://www.dropbox.com/scl/fi/mhi4ed3qugs58f4x8xymw/17694280354118373209533499907616.jpg?rlkey=bztgo3ij740dedlztf1g7a2bx&st=ces52md3&dl=1", Zootopia 2016
+https://www.dropbox.com/scl/fi/wibvckhlxy85xliy3b0yj/zootopia.mp4?rlkey=8uo4uspj40d6vplzf3rm2ube4&st=vkq3jojm&dl=1
+
 
 
 ###################### MARVEL
@@ -3824,9 +3954,6 @@ https://www.dropbox.com/scl/fi/troqba8qux52zonrvi5g4/bas-terakhir-malam-raya.mkv
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/klphcrpaamlgg81616xry/17513762720661679488324499694151.jpg?rlkey=2avqdydk5852t9yrdfmoqes3l&st=qmt0s5xb&dl=1", Pulung Gantung Pati Ngendat 2025
 https://www.dropbox.com/scl/fi/357ko8ebqfwo5hnarecca/pulung-gantung.mp4?rlkey=kjxj431eu156pgwwe2fmfgocg&st=ika4rlv0&dl=1
 
-#EXTINF:-1 type="series" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/9m050yl95hxkx13euw3ep/17739294008668310327711831451466.jpg?rlkey=pmbzoidmiu65vw3brogisml4x&st=pn2v7ph7&dl=1", Papa Zola The Movie
-https://www.dropbox.com/scl/fi/4atunnc5kvdp2cnwfvfa4/papa-zola-the-movie.mp4?rlkey=ve7h6comijxs9t3uyzhto97yc&st=p3pjmgrn&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/z03gz5r5v1m4qttszdcci/1751506375564608564244871604958.jpg?rlkey=42ap9deam9orq41ajhxylppwa&st=4un0f1ma&dl=1", Perayaan Mati Rasa 2025
 https://www.dropbox.com/scl/fi/8m97ibp4bd0tmgqg6cj3m/perayaan-mati-rasa.mp4?rlkey=iqzrpkprulj3279zfymma2tvf&st=ypmitbao&dl=1
 
@@ -3871,9 +3998,6 @@ https://www.dropbox.com/scl/fi/jl8wi3j919peyt1bblfva/dangerous-animals-2025.mp4?
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/9mi95yhv7c2ohs03mzzjq/17538854034002132241345445920716.jpg?rlkey=3ektjscivrqeuehdto1fj0ogh&st=3v2o5pdj&dl=1", 28 Years Later 2025
 https://www.dropbox.com/scl/fi/m30yjqlh0e3p7rxrbk8jz/28-years-later-2025.mp4?rlkey=b5ilevzblfy3n82w3iqr8da6k&st=a26rp3xo&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/gezflq4orqnjp5ivbt4zp/17540209601791906032400377716417.jpg?rlkey=3901p7fudy0vrlg7h5hhqu64n&st=uoixr5wk&dl=1", The Fantastic Four First Steps 2025
-https://www.dropbox.com/scl/fi/813ijpbmgm3gp3w14w55b/fantastic-four-2025.mp4?rlkey=dlydbnixjo0cfr9lno6hb204u&st=iva6hfgj&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/yxrb5bunhwunzuexwvox7/17541363804074539563739020711838.jpg?rlkey=d5bvz8tnophttyedm0rbgx7ud&st=7qyn3q3v&dl=1", The Monkey 2025
 https://www.dropbox.com/scl/fi/gtyzybw38h4fqqyktxtmz/the-monkey-2025.mp4?rlkey=rbl9xcj8dgg4yiz47ylurs1m2&st=tkajp1nc&dl=1
@@ -3956,9 +4080,6 @@ https://www.dropbox.com/scl/fi/lirbkxnfgcd6prcsnwmwg/indra-2025.mp4?rlkey=5s4or5
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/8g896pvtn7lchzak3nj4c/17587880291207706011922962794048.jpg?rlkey=lha3w2vgjmpdlw61z7uv1wgkv&st=k6wip4qz&dl=1", 6 Jilake 2025
 https://www.dropbox.com/scl/fi/xfe4hjbqnnpxu2tia4qek/jilake.mp4?rlkey=3wq4bpqkh3r2isdjruy6qxk8k&st=ws2yyyq0&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/v088vupmom4c7x7yiyged/17587881299823183559161468570396.jpg?rlkey=qfx52zgmtlj681757jtxesz3w&st=uo0sg1w1&dl=1", Elio 2025
-https://www.dropbox.com/scl/fi/dliph11mj5choaz0tqvux/elio.mp4?rlkey=k26qtoktkrq9nga7084567zig&st=jjqvx3zp&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/cb3o6zphd73ourkurpvh1/17588136412545795813033715475887.jpg?rlkey=e6jo09kitbgbmwftt2q0vel67&st=mmdb8v5r&dl=1", Sniper: Assassin's End 2020
 https://www.dropbox.com/scl/fi/xa1apzfnhpxgi23imwp5j/sniper-assassin-end.mp4?rlkey=zu81xku0w53jw699ovb763qaw&st=eoj3dh9x&dl=1
@@ -4078,9 +4199,6 @@ https://www.dropbox.com/scl/fi/krk2eqml67nx9skg2t3lb/ibu.mp4?rlkey=bh8h7xt19cg8f
 #EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/3plghdg11ktvynu8uvl8m/1739632818304919479658411672689.jpg?rlkey=5t332984xu1wwtboc8w6dfxa8&st=rtsr1ez7&dl=1" group-title="Jstore-Top Netflix",Home Sweet Loan 2024
 https://www.dropbox.com/scl/fi/e08b2ooittl02pxha8gb0/home-sweet-loan.mp4?rlkey=61y08hat74bhv58rauxupx2zs&st=yous2rgw&dl=1
 
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/7yicv34fs63590jku039b/1739668059352920604769934594726.png?rlkey=bo9fjd4x0m24sxi69vv9qfejh&st=fn0g55fp&dl=1" group-title="Jstore-Top Netflix",Sonic The Hedgehog 3 2024
-https://www.dropbox.com/scl/fi/mx6798cn5ukvww8n3pacn/sonic.mp4?rlkey=wsj6fowuec67ikbhbljky3a72&st=6e0ag9q8&dl=1
-
 #EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/nxz60b0gj6gna0yk5ym9d/17396735608657054208565035198653.jpg?rlkey=014yl68zo5r9dsdx10s1x9jze&st=7hbkvfwf&dl=1" group-title="Jstore-Top Netflix",Kinda Pregnant 2025
 https://www.dropbox.com/scl/fi/tyxuazmgkrydsoropo8lw/kinda-pregnant.mp4?rlkey=ug70he9oiipsxxfw7fklt1jmb&st=ogctae67&dl=1
 
@@ -4089,9 +4207,6 @@ https://www.dropbox.com/scl/fi/b4vzbbp153yuz694qbqj9/back-in-action.mp4?rlkey=2j
 
 #EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/g12fenxcmw3v10cba2ug5/17398793530181210645505785787531.jpg?rlkey=54xr85p9hfuwayhbsgbd0v444&st=sfh09cc3&dl=1" group-title="Jstore-Top Netflix", Kemah Terlarang: Kesurupan Massal 2024
 https://www.dropbox.com/scl/fi/hvwgohiwbuy2zlc4xt6j2/kemah-terlarang.mp4?rlkey=95y0e1ts4asbf9kq4ubgsdj4q&st=2p6bgsp5&dl=1
-
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/v5phcrafyd71reg1pfpkv/17398797130112492344828825698924.jpg?rlkey=6lcn9oz8wtowbod1rh5gytu6k&st=kwbx1yag&dl=1" group-title="Jstore-Top Netflix", Cocaine Bear 2023
-https://www.dropbox.com/scl/fi/levxtwnfx8va46823pkgq/cocaine-bear.mp4?rlkey=13vkhnn2z2b2hg3ike1nq3vs8&st=apgst8lb&dl=1
 
 #EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/9mli2uvunuzzfsa5otcxc/17400389158928721304768002850122.jpg?rlkey=3lcrwy6s8nmyaweagghcv9z2v&st=hagmca6e&dl=1" group-title="Jstore-Top Netflix", The Prosecutor 2024
 https://www.dropbox.com/scl/fi/cemww69ecgct5affmifuv/prosecutor.mp4?rlkey=u5do1dqgkch9xzg3kh9r3rv0j&st=3zovq694&dl=1
@@ -4212,8 +4327,6 @@ https://www.dropbox.com/scl/fi/hf7i70fdchemc039biyht/mickey-17.mp4?rlkey=0f4vwdw
 #EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/aghkqd87b9hl0eaulzmwa/1744168587131823973552715197883.jpg?rlkey=7884rybs9o37v8wm49wknxm06&st=sr53nyqp&dl=1",Pondok Abuya
 https://www.dropbox.com/scl/fi/fij4fpurwjbh8knl0kq0j/pondok-abuya.mp4?rlkey=24s3i5jqp42lifmh3e90f25ut&st=if55axc5&dl=1
 
-#EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/fu5kemmf1envkws08qceg/17441955163568938144062073120135.jpg?rlkey=03k960ci21icncbgjs6uu7rzz&st=6un9xqls&dl=1",A Minecraft Movie 2025
-https://www.dropbox.com/scl/fi/nukn4r6wid653n2rdpmkh/A-Minecraft-Movie.mp4?rlkey=od8qix5xvicdl034z1fdz579n&st=tke25k00&dl=1
 
 #EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/oysl148vn6bbe9jl80qgw/1744253087866131826308251746686.jpg?rlkey=2o56q33ebxpa1nldk295sf17d&st=pbg6wsft&dl=1", Novocaine 2025
 https://www.dropbox.com/scl/fi/mqq6h411y03zeybtjhhyv/novocaine.mp4?rlkey=qkas0bwrmib6j3e48a2gt373f&st=fughvosv&dl=1
@@ -4227,14 +4340,8 @@ https://www.dropbox.com/scl/fi/ex5rvgu0o49cp1a4fyljx/jemaah-penanggal-kampong-le
 #EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/x3x77mimr8n7rrihcfi1v/17444618602702598207001875425097.jpg?rlkey=yhuzyrpgx9p65fwjrsh1car6d&st=3h1poogq&dl=1", Cinta Tak Seindah Drama Korea 2024
 https://www.dropbox.com/scl/fi/ix8evbvos7sj2r218mgpu/cinta-tak-seindah-drama-korea.mp4?rlkey=s0v1luoj8hhkgv8iqzqi0xlsx&st=wxznqa4t&dl=1
 
-#EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/lfv9gz6bb4top6wjn42iu/17444827675545449103165183540954.jpg?rlkey=ssrgvxnpxdsimg39rft5mt631&st=rci6l9r6&dl=1", Dongeng Sang Kancil 2024
-https://www.dropbox.com/scl/fi/7gthfrz6p4tkj8x1ge5rg/dongeng-sang-kancil.mp4?rlkey=6fk86he70zp9tkixdzzkfrkyl&st=3zuwz6px&dl=1
-
 #EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/l7ffdy92c47xu5tcg5c0s/17444834415707053396252409120070.jpg?rlkey=ubudkd1i235sl4te22ta0qpwn&st=0z7imu9t&dl=1", King Of Painting 2025
 https://www.dropbox.com/scl/fi/kmsuihduq01vvy9pxisjj/king-of-painting.mp4?rlkey=3ust0wplmd3myaqda2vl8jtc4&st=m2epog3d&dl=1
-
-#EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/mfh9gza3bpf4yiu72bkxj/17445099531345395086388627433039.jpg?rlkey=bzah1apd67inw77r8oxz53xwr&st=a4jb2xml&dl=1", The Wild Robot 2024
-https://www.dropbox.com/scl/fi/k9w5a95vx0udcr2cw3uyq/the-wild-robot.mp4?rlkey=21okg5q9bip5a2wnd8dufdc5o&st=mc2c4lvi&dl=1
 
 #EXTINF:-1 type="movie" group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/27z0lg8yo9tc9xog6wksi/174463006375481867261183625941.jpg?rlkey=b3vlsd77gfbg52w90otg7gasd&st=y211it5l&dl=1", The Firefighter 2024
 https://www.dropbox.com/scl/fi/m6ylcmuwfu80m9ac6sbja/Firefighters.2024.mp4?rlkey=n5iakwh2h41nk28gpbggbgz43&st=6uo23d6d&dl=1
@@ -4308,9 +4415,6 @@ https://www.dropbox.com/scl/fi/nnuz6l3shbxn1mbe34tu0/ketindihan.mp4?rlkey=n28lhz
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/upczhyq1ply5uleb0a81o/17475043205515412300058927542949.jpg?rlkey=vnqdbm1j3usr4kpxt6fkq5md8&st=abk9s1w5&dl=1", Final Destination Bloodlines 2025
 https://www.dropbox.com/scl/fi/s83w1gb0xjbpg99pj07ik/final-destination-blood-lines.mp4?rlkey=vdgltul1vl4xywbu2hdism3zb&st=tfd73l3n&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/lmzuu4869f56cr1zkigzi/17475046602665189413984093861710.jpg?rlkey=6c1j1mhh5rl3ram3co400o3k7&st=dzvnhrlo&dl=1", Snow White 2025
-https://www.dropbox.com/scl/fi/qkd6eid3ktt7l6hadgcl8/snow-white-2025.mp4?rlkey=zplhawaqzgs0x5qi0aq4gdhtr&st=kuiy4kk0&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/gk1uzrl7mzgrqr1zag5bp/1747926058924747499757635511790.jpg?rlkey=c9d2uqglnr4sa1rbfew8aot34&st=vmnh02s3&dl=1", Almarhum 2025
 #https://www.dropbox.com/scl/fi/lzfp1879di3j95d021933/almarhum.mp4?rlkey=s7j7itfxj1s0xweqlbp3lea5f&st=v7albrrr&dl=1
 #https://www.dropbox.com/scl/fi/5liu4so7kxsrts9bzis09/almarhum2.mp4?rlkey=8yxcy9egls49pxp5tca0wnq9n&st=p62hsz90&dl=1
@@ -4318,9 +4422,6 @@ https://www.dropbox.com/scl/fi/rfpan3gp390xy4ao4ohg0/almarhum720.mp4?rlkey=jjsbh
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/t7wuixy10lnrv7oe515ao/17480579121976099032835148315038.png?rlkey=xpbb1h3tyyk1uk8g1a847k6sh&st=oo6obx1q&dl=1", Pengantin Setan 2025
 https://www.dropbox.com/scl/fi/nw3mqduzcwrieuzafy89p/Pengantin-setan.mp4?rlkey=vu1bqzl4i7q2fkj6ks3mkrk2i&st=huhinbvh&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/xg1z4w057nj18c77ucbm2/17481723458136478499081910975985.jpg?rlkey=hto4lx06gkznkdjlraer3z9a4&st=bc1d83wg&dl=1", Ejen Ali The Movie 2019
-https://www.dropbox.com/scl/fi/tyndsifusk2g8olp1vtrd/ejen-ali-the-movie-2019.mkv?rlkey=b9uzm4u98x44e4w9m4mjeqz3y&st=1d24udr4&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/890wyth8l5kk5dravcqha/17486926960227887356308488251146.jpg?rlkey=ntj2sntrmtxlvuhdcon2trkwt&st=xtbr9x8a&dl=1", Ghost Game 2024
 https://www.dropbox.com/scl/fi/092tix5y3wpy2gdocgj0c/ghost-game.mp4?rlkey=7qmvs6atfu98qgk425uts4u3r&st=56fbfjcx&dl=1
@@ -4367,9 +4468,6 @@ https://www.dropbox.com/scl/fi/m57hfbpbfuqpm0z5sq8xw/raging-fire.mp4?rlkey=2xnry
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/mocwf19jm0vxrsp8ndwex/17506000408572948507846028291602.jpg?rlkey=fphlc83121okmpx3uta1dlrh0&st=lglsogxu&dl=1", Petaka Gunung Gede 2025
 https://www.dropbox.com/scl/fi/oo7j40f038g0c9vwo0pka/petaka-gunung-gede.mp4?rlkey=azspu6tqsmez0no9lj8iviyz4&st=ms3j2nvt&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/3qo7omhm05nm7c7fgfkl3/17512899212917344587499441021433.jpg?rlkey=h05xvjz05um4ombsyto37v7a3&st=gq1enyg3&dl=1", Word Bubble Up Like Soda Pop
-https://www.dropbox.com/scl/fi/egec3nk544r5265ir97rd/word-bubble-up-like-soda-pop.mkv?rlkey=sc0papqdd6sm8isu3gttpvwej&st=exo9eq64&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/3em9nl1ytlwalradguk0e/1751292284171361318498478771568.jpg?rlkey=vipt5cp2aoawxog71cye4ql0e&st=nuuchsk9&dl=1", Flight Risk 2025
 https://www.dropbox.com/scl/fi/wfokq0ghp5eucg19pzv70/flight-risk-2025.mp4?rlkey=o786povqgj7djlsf9ts4vtfyz&st=xsoqatf4&dl=1
 
@@ -4387,9 +4485,6 @@ https://www.dropbox.com/scl/fi/taijucak70oumzsk9f9lp/harimau-merah-intrik-dalama
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/mkdtit7cazdjaoka19zsu/17591546558985102489337210835296.jpg?rlkey=t8gqrx92utfih4cq9pcnvr0ms&st=w5dfa5cy&dl=1", Qodrat 2 2025
 https://www.dropbox.com/scl/fi/1uqb7ehsconu9u9bd2y8y/qodrat-2.mp4?rlkey=ojpyv40lwp1oddpbmrd45vxoz&st=2mn83zva&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/f22drp7stw9f1vxdowozm/17594692441988147287683024327898.jpg?rlkey=65v3ne4xkhz3cfkbyk832kq7m&st=pyixxa66&dl=1", Ejen Ali The Movie 2 2025
-https://www.dropbox.com/scl/fi/xkkqjqwm17dyn3z7b9x1k/ejen-ali-the-movie-2.mp4?rlkey=hyr09nfqol9a4hq0tcl01pi5n&st=9ookibp9&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/gl6oioszrepp7fd8jyn89/17594693511736389509141034184717.jpg?rlkey=km8vo5odq233vj4itpd0g0ujh&st=0vxnwoqp&dl=1", Organ Child 2025
 https://www.dropbox.com/scl/fi/jnshlbexj4sp1k9cewmhk/organ-child-2025.mp4?rlkey=dos5vnds51per0q2bqlvdx82y&st=ludidwxb&dl=1
@@ -4427,12 +4522,6 @@ https://www.dropbox.com/scl/fi/pyjhveaaca7sqsbhf2tjy/the-sixth-robber.mp4?rlkey=
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/n45nixojqpmimqrcm943e/17664142218521715679306599551081.jpg?rlkey=impfy6pdmkc0eulffbryviyr8&st=tgn83bzs&dl=1",The Great Flood 2025
 https://www.dropbox.com/scl/fi/gdw61o7g2uo1br0ao3gri/the-great-flood.mp4?rlkey=y6gth4b9lple7xrzuhmn6mo8p&st=tpp6u7nk&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/d6ybz3ml6rtpo4pbu4qmz/17665883713193362417724633771267.jpg?rlkey=dhou6c4w43fabe3y3lz7qb0tj&st=fa8uojc2&dl=1", Bumblebee 2018
-https://www.dropbox.com/scl/fi/dojj5gyier7w7dr7d4959/bumblebee.mp4?rlkey=9or6k4dnc0uulza1k5rksqy8q&st=56p98q47&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/9kj2tczewqqyba817w6jv/17665884014078806214666399648222.jpg?rlkey=tmn96d33h8cgdrrd1ujkj8om7&st=0ixikac9&dl=1", Migration 2023
-https://www.dropbox.com/scl/fi/0gjocci5wnku4lunv9x1p/migration.mp4?rlkey=98b58a4sudnnh260b2c40wvf4&st=2sxa0bxm&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/abjm8z04h3sg36ok1v3ex/17666727282395966004276234146910.jpg?rlkey=wr2fdpzwn11f9ue8uhlljs9z8&st=1yutcth3&dl=1", Troll 2 2025
 https://www.dropbox.com/scl/fi/2uwivv6njgtnoaf6du087/troll2.mp4?rlkey=gjxbq1yb0jr1dufngdu4j556a&st=2dlfdgom&dl=1
 
@@ -4465,12 +4554,6 @@ https://www.dropbox.com/scl/fi/wtxx63r89aujj6g6y9yiy/kraken.mp4?rlkey=z9tjns7vpj
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/9w4j2eq1z9qtjryy2g5bp/17693133533454023131035997696500.jpg?rlkey=y0vtxk50zzn71axv4bu3mhukz&st=ze4vfiih&dl=1", The Rip 2026
 https://www.dropbox.com/scl/fi/1izh8379ygza25z6kpl2x/the-rip.mp4?rlkey=mhtq6v27ihxnmho6wkj4oo1my&st=39zzmi3z&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/mhi4ed3qugs58f4x8xymw/17694280354118373209533499907616.jpg?rlkey=bztgo3ij740dedlztf1g7a2bx&st=ces52md3&dl=1", Zootopia 2 2025
-https://www.dropbox.com/scl/fi/9te62j8ajepyhppavwcp3/zootopia-2.mp4?rlkey=ruqk63mnvpa3fqz7cta9g0ek4&st=skvx4j1n&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/mhi4ed3qugs58f4x8xymw/17694280354118373209533499907616.jpg?rlkey=bztgo3ij740dedlztf1g7a2bx&st=ces52md3&dl=1", Zootopia 2016
-https://www.dropbox.com/scl/fi/wibvckhlxy85xliy3b0yj/zootopia.mp4?rlkey=8uo4uspj40d6vplzf3rm2ube4&st=vkq3jojm&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/mj8hyhv4r6j72svf3773s/17698839445891709915189758687996.jpg?rlkey=rjxh2dnagk3204t9uwvu9fkkv&st=040g9mgd&dl=1",Mama: Pesan Dari Neraka 2025
 https://www.dropbox.com/scl/fi/kik1uj37qyn93is0pylzi/mama-pesan-dari-neraka.mp4?rlkey=xltqbklpbyj3pxc63ctq66xy8&st=d0fcxjca&dl=1
@@ -4544,9 +4627,6 @@ https://www.dropbox.com/scl/fi/qn8t4pkg0pcekbsmgl3g3/john-wick-chapter-4.mp4?rlk
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/n0giz6u6n00zk53aqy0aw/17772919863467473158880908033510.jpg?rlkey=zawztmoxyw9zb0cnw6xhyi36d&st=yo8yzckz&dl=1",The Last Shot 2025
 https://www.dropbox.com/scl/fi/i4eiwxm1lzjo7ge5g4ryt/the-last-shot-2025.mp4?rlkey=8vwkennjokpzbvdulp14d23pr&st=1630o2md&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/bexd124i7nv0w0lp4bxrz/17772921419485344351616532660575.jpg?rlkey=vyksblt257kkqdkm5wuftzrcw&st=wtnwvsj6&dl=1",Toy Story 4 2019
-https://www.dropbox.com/scl/fi/jwnv3xny8imfi4ss9quxv/toy-story-4.mkv?rlkey=qnjdusu3xd0f6hnl9p2v010wx&st=hoqwv71b&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/tlvivzq1fcoj1blw75ule/17776489691777681987131819902922.jpg?rlkey=hsstq376w39c1lh13e50u1hyd&st=qs0ik4gc&dl=1",From Beijing With Love 1994
 https://www.dropbox.com/scl/fi/e0ke63at3e9vuz9vcja3p/from-beijing-with-love.mp4?rlkey=dgrqynsmt3qkkb9v0zhx3sb9k&st=ele4bhtu&dl=1
 
@@ -4564,9 +4644,6 @@ https://www.dropbox.com/scl/fi/eiz8275wrd3j5so79mjfk/heads-of-state-2025.mp4?rlk
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/clz09744oai7fgl6cnnag/17783489728463825883018021954292.jpg?rlkey=txn2wry863dbz5x6v9ryllhyo&st=f2bpf5rh&dl=1", Send Help 2026
 https://www.dropbox.com/scl/fi/fbkp2adts60jhqfu69tro/send-help-2026.mp4?rlkey=1vny0l7g39q9yi39epwvnil20&st=5vbq1907&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/8x3m3cul4s33bgxbn39jo/17783856278405800391875409284013.jpg?rlkey=e25rjojle65gamtbir0z97lzl&st=azfga7su&dl=1", The Super Mario Galaxy Movie 2026
-https://www.dropbox.com/scl/fi/nhg4s27bjxm92k36qjxam/the-super-mario-galaxy-movies-2026.mp4?rlkey=711mo4vpirtcxktqrhlzqe258&st=ccsoxqzj&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/hu0uhw572hbtppgnh0nzd/17784217163459049683473950162352.jpg?rlkey=qq8zsdu585k2gnm9q4w93avyc&st=wxuc4f0w&dl=1", Wardriver 2026
 https://www.dropbox.com/scl/fi/b32phyvqs3o06bd239lj5/wardrive.mp4?rlkey=ratkm04m52u69d2afwgk1387k&st=vib7hwun&dl=1
@@ -4594,9 +4671,6 @@ https://www.dropbox.com/scl/fi/5obdm8vudwyewsuymmdpj/Bajrangi.Bhaijaan.2015.mp4?
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/q9u13d9xjt8luw6grhtle/musuh-dlm-selimut.jpg?rlkey=ohq1o98ajar8ih5hya5twrodd&st=fv1vy1r7&dl=1", Musuh Dalam Selimut
 https://www.dropbox.com/scl/fi/d574qau9shx176ms7pxa5/Musuh-Dalam-Selimut-2026.mp4?rlkey=daa18rroi367gv6cn7kqv6zuj&st=q7icxw11&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/y5hmeoclpzy0kg9ruocz3/TRANSFOMER.jpeg?rlkey=053mntoytze0pobr7f124bitx&st=jlacuh9p&dl=1", Transformers One (2024)
-https://www.dropbox.com/scl/fi/xu3ucux4fxak3qz1ov34v/Transformers-One-2024-1080p-WEB-MalayDub.mp4?rlkey=u9m982csgkejlhcz37z94r5x2&st=em6e6s5v&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/bbaf2yjz5e47ebj7w0vw6/miracle-cell-in-7.jpg?rlkey=gksz0yhb7z5e5guhe6nyzeljq&st=wdz40fhl&dl=1", Miracle Cell In 7 KOREAN
 https://www.dropbox.com/scl/fi/6pzebuj5n22p006x7xsj1/Miracle-in-Cell-No-7-2013-KOREAN.mp4?rlkey=ucsmaxyya4okrl04pfqx5vaax&st=8rl1ia89&dl=1
@@ -4715,12 +4789,6 @@ https://www.dropbox.com/scl/fi/qj78390yk1lmotplf5hxq/The_Girl_in_the_Spiders_Web
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/r7vrehdvuujyo3om882qs/The.5th.Wave.jpg?rlkey=jo5606x6pm1kcftiww7tawjmu&st=fyy9ojq8&dl=1",The 5th Wave
 https://www.dropbox.com/scl/fi/k0l0g9p3zyic8ah3n28lp/The-5th-Wave-2016.mp4?rlkey=nza768vi5onvg3p88oxukc3ib&st=gp2lpnft&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/nq0kehvyxku9vkcb8qyfv/Cloudy.with.a.Chance.of.Meatballs-2.jpg?rlkey=z1twca40n05x9yin6gmi5ob6p&st=f330o3mh&dl=1",Cloudy With a Chance of Meatballs 2
-https://www.dropbox.com/scl/fi/dkcw3n9drbpccyn05hn75/Cloudy_With_A_Chance_Of_Meatballs_2_.mp4?rlkey=bx1z86yoxa0kqdm2ynk0xipw6&st=hhfmubwn&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/8ec8ucdvxhutg874ql5ku/minion-2022.jpg?rlkey=ojugf1htb2wuf7ce7iup8fx05&st=cdjqg1ku&dl=1",Minions The Rise of Gru 2022
-https://www.dropbox.com/scl/fi/dpklgkkk6mf1k72qc4fkm/Minions_The_Rise_of_Gru_2022.mp4?rlkey=ph4og1qsqxwv0g4pk7vxd7qe8&st=l2xrek4z&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/lvccx2kz75f6q9m1680rg/balti.jpg?rlkey=bhyjnnfgaemwspkmqhz1u1beq&st=r6ktuo99&dl=1",Balti 2026
 https://www.dropbox.com/scl/fi/8nzdcp7lmo5y6b0he4182/Balti.2026.mp4?rlkey=78nmahze8eectqesvfubknvii&st=nkc3xd5o&dl=1
 
@@ -4730,23 +4798,11 @@ https://www.dropbox.com/scl/fi/3sibuvlp4g3akm4a3ejag/Dhurandhar.The.Revenge.mp4?
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/l1pyto0nkndyzu86g1hkq/na-willa.jpeg?rlkey=7vxoezv5yy1sar84w2y8xjqdl&st=vnuyj7dg&dl=1",Na Willa
 https://www.dropbox.com/scl/fi/xlqs8k97tq4eif7vchi18/Na-Willa-2026.mp4?rlkey=8bf7vc65k52sf3cpr3mg7qt3f&st=8rta20fy&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/o1e9970nuaih47ivf44g3/Minions-Monsters.jpeg?rlkey=qfxk11j3d7w4gfcocew6y1wah&st=jtp6x5w6&dl=1",Minion and Monster
-https://www.dropbox.com/scl/fi/364rki86vxknu3k4lughs/Minions-and-Monsters.mp4?rlkey=dy4sw63jrjpjz6snr24yxwtdb&st=ncnacujs&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/9mo8dn7ksfnbxhqv82cxw/The-Death-of-Robin-Hood.jpeg?rlkey=vwm04u1ui4vh48wcjm34ptatm&st=skhdp4ix&dl=1",The Death of Robin Hood
 https://www.dropbox.com/scl/fi/5bipxwf98vqlbhdv4nhky/The-Death-of-Robin-Hood.mp4?rlkey=ojyg08rt8skr1bjogw8fsukvy&st=jybfxz71&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/qmbjpr8yluanmpf1e6im0/Lucky-Strike.jpg?rlkey=9g58vag1521319vs00t5qq605&st=qboficjf&dl=1",Lucky Strike
 https://www.dropbox.com/scl/fi/kaxbsel2oloahf7cvcjg2/Lucky-Strike.mp4?rlkey=mhzzwzdxhccdayrp9gwabh5x5&st=k5m4ms7h&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/i7ry35j7wmfso009q2w81/Avatar-Aang-The-Last-Airbender.jpg?rlkey=h70z8qc5kfdsabz61b9mflxsd&st=8y0bzotc&dl=1",Avatar Aang: The Last Airbender
-https://www.dropbox.com/scl/fi/r7iupfve4fokpvmgozn0v/Avatar-Aang-The-Last-Airbender.mp4?rlkey=w78yrj9vhk6p112hv2apxjja0&st=8dhhgc58&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/apr1yecjxry03t1t9nkpu/Hoppers.jpg?rlkey=l3fhw52177k3ek56m3z8lxtqs&st=uvm1q50j&dl=1",Hoppers
-https://www.dropbox.com/scl/fi/teg68bkjj5ggzf4ip28lx/Hoppers.mp4?rlkey=kw3p5hq7wwjar14i301npldbe&st=dvyqq1el&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/fq65gzh1bhiruzwl7d5gs/The-Super-Mario-Galaxy-Movie.jpg?rlkey=mxc5zsgp2708mz9rvaxkl3fjm&st=d1cjsyv4&dl=1",The Super Mario Galaxy Movie
-https://www.dropbox.com/scl/fi/nycj784kaaiar8a71u8ei/The-Super-Mario-Galaxy-Movie.mp4?rlkey=o090vwhu38y9u9pdhyek0ynza&st=axm2p8i9&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/y09yc4lb6ydn3wc8hlvwu/pewaris-susuk.jpg?rlkey=98e4iojrcihop71hhmfv927sy&st=howc3kav&dl=1",Pewaris Susuk
 https://www.dropbox.com/scl/fi/hrr4ofib7fbpxt0zd55b2/Pewaris-Susuk.mp4?rlkey=osrkdicgjbb0k4olzecshyz6x&st=h8wpegge&dl=1
@@ -4759,9 +4815,6 @@ https://www.dropbox.com/scl/fi/bwko4hso21alj0m5wocko/Mutiny.mp4?rlkey=wgdcbhkyjy
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/4udk428ek9rle8uusbzk5/ghost-in-the-cell.jpg?rlkey=p8m49q3c6x5s783fpkf5zhaie&st=jrtik4b8&dl=1",Ghost In The Cell
 https://www.dropbox.com/scl/fi/a033i9f3bekv7swijsrf7/Hantu.Dalam.Sel.mp4?rlkey=k1ujo37qcrwmxz22n43b2o2c2&st=la3ckao0&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/wbyj5iw7j9c7tcxccu1rl/coco.jpeg?rlkey=q8pgsnvphsqqxl68m47gz7i9k&st=zzzbhir1&dl=1",Coco 2017
-https://www.dropbox.com/scl/fi/st5jygavmxcd2kqm7rrbl/Coco.2017.mp4?rlkey=zi3uqnmlcihlpaimd5efxgmzj&st=6xt0qzax&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/8myrsixngr3a0v97hzxxf/Perempuan.Pembawa.Sial.jpeg?rlkey=3unpuij0kfrup7fqsavvjn4rh&st=f85bdaxu&dl=1",Perempuan Pembawa Sial
 https://www.dropbox.com/scl/fi/fh4wkzcj3iqo6agxvowvx/Perempuan-Pembawa-Sial.mp4?rlkey=4zb35ikcvplw40aefgb001lj7&st=cxp0tkkl&dl=1
@@ -4925,12 +4978,6 @@ https://www.dropbox.com/scl/fi/vrg27e6a99v63ab9bh40j/Genggam-2026.mp4?rlkey=tvjq
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/unldarm46u778ulw1ioxo/rumah-terakhir-abang.jpeg?rlkey=a5xv36gdg35oy8opywqtqcun3&st=xu4nmvw4&dl=1",Rumah Terakhir Abang
 https://www.dropbox.com/scl/fi/bacnnd0smel10b3c0ka8z/Rumah-Terakhir-Abang-2026.mp4?rlkey=zy25txkn5el8fzlspknkauueo&st=m3gt8hvk&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/kbimeq09il9xnku1q4gq4/The-SpongeBob-Movie.jpg?rlkey=mpjzc1zfcoa4qnn2olqsmmm09&st=jvwkqnzn&dl=1",The SpongeBob Movie: Search for SquarePants
-https://www.dropbox.com/scl/fi/io0o9vya3fe4ip7aqmhnu/The_SpongeBob_Movie_Search_for_SquarePants.mp4?rlkey=4k6q7ij0vdy4efexo88gyf3ck&st=13mds9t2&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/3p4mkcfruc1i5o32uzm89/Plankton-The-Movie.jpg?rlkey=vo7ztzl3nnael38iyibnxfxv1&st=odyk2x4f&dl=1",Plankton: The Movie
-https://www.dropbox.com/scl/fi/jhkn6p3id4slcohdvhjc3/Plankton-The-Movie.mp4?rlkey=jvlmjpyzafwzv5r0d89mh0xkc&st=7bwyuhe5&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/oqicdg3eb0knk3douara1/baby-do-die-do.jpg?rlkey=7sxbjfg7we8nu9qus1vn2mtlq&st=ranopwmz&dl=1", Baby Do Die Do
 https://www.dropbox.com/scl/fi/mn2j6wbm7v2v5lab06vfq/Baby.Do.Die.Do.mp4?rlkey=y0ehp9g8hkfmxg9qnl4rbwaap&st=43o2g8vn&dl=1
 
@@ -4945,12 +4992,6 @@ https://www.dropbox.com/scl/fi/cuzrmnk5xdgudsb40yy04/Sengkolo.Petaka.Satu.Suro.m
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/99w6pwllugnr3oklmt47x/MV5BYjhhOWE0NWQtM2VjNC00NDhiLTg4YjQtYzI1NWE0MGM3NjFkXkEyXkFqcGc-._V1_.jpg?rlkey=6f6h1egm7lhg6jza1d62y7aft&st=qo5kjj9s&dl=1",Man of War
 https://www.dropbox.com/scl/fi/0iqymtfcutvzcukqhhhwu/4_5820907238545432737.mp4?rlkey=rulv3eamf84xpntq2kd6lf7bo&st=k6fvzbax&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/cnsuoyym5iu7iv7qhyskz/IMG_20261006_151341_466.jpg?rlkey=lhv2l9lqwo20t50bolfqqjbhn&st=356j2re4&dl=1",Monsters 2002
-https://www.dropbox.com/scl/fi/la4rw7nvjdjm24v52dzcs/5_6204152461767213993.mp4?rlkey=t5p49safuwrpsnfi00mn50gaj&st=7fnw19yg&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/y38le3i9lew9bi0ayhhde/IMG_20261006_151340_955.jpg?rlkey=ydkcgcthzsp3zhsclhocssxfa&st=5ps3ywql&dl=1",Monsters University
-https://www.dropbox.com/scl/fi/pg9ygvpkx4raoxeocjtbd/4_5947420817418620103.mp4?rlkey=tec3lwsqppkijlwvfby3htg9j&st=tasu4k3a&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/v7p6m3zbnyzjn8mty25iz/kungfu-soccer.jpeg?rlkey=zttul37r4g4tiac9bg6ifrtis&st=l5z48wq2&dl=1", Kungfu Soccer 2026
 https://www.dropbox.com/scl/fi/9igppjtdyq9ro9vncwo91/Kung.Fu.Soccer.2026.1080p.HC.MalaySub.WEB.MSM.mp4?rlkey=oyd8i09mr598emhwsi1z0n775&st=x96679u1&dl=1
@@ -5006,9 +5047,6 @@ https://www.dropbox.com/scl/fi/e5uivxg00vdyq8v5etal2/One.Last.Shot.2026.mp4?rlke
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/h4acmswxlpw514vemvjqr/Keyart_1.jpg?rlkey=wk9f8lle6mnt6yn0u5wmjibbx&st=vvk0hcu9&dl=1", Evil Dead Burn
 https://www.dropbox.com/scl/fi/1z9mtr8q8txx2zb9og4mz/4_6046519753185435193.mp4?rlkey=2d5uyy44m86ai9ut7hs92rpio&st=iwhiew8u&dl=1
 
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/rrmivvd35veyhl6ddunwe/5fae7e63fc0a7efe02eded1a4c27ee862f245f2489bbdd168008a1e7c61f8c7e.jpg?rlkey=4zl7qr8dx5ca4cjje8x6tnafr&st=w15nmp4z&dl=1", Toy Story 5
-https://www.dropbox.com/scl/fi/msiuuw5moibwthr1a9yqw/4_5784993434980851271.mp4?rlkey=8962uqj72hmn5ssje68abxb4m&st=51159reh&dl=1
-
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/m9ym81qutonddl3qbp0ne/MV5BZGE1NTA0NzAtNjJlOC00ZjMxLWJlOTItZjk5MDA5ZmRkNTBjXkEyXkFqcGc-._V1_.jpg?rlkey=blcm0w65gdsmz24btxip5xoyi&st=2cir4711&dl=1", Lembayung
 https://www.dropbox.com/scl/fi/phvz4vqmebl0phhvehxwi/4_5951687480880143760.mp4?rlkey=j1cid2qp5300ct601isllf4se&st=x70hh4rh&dl=1
 
@@ -5047,9 +5085,6 @@ https://www.dropbox.com/scl/fi/3mt8tgcsxx7ykusznx33z/Badut.Gendong.mp4?rlkey=ts3
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/k5n1q0hu9kpt4bhlkdn8s/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=yxznxanekst2pr7xmjobvtvpm&st=akw65dlm&dl=1", Lee Cronin's The Mummy
 https://www.dropbox.com/scl/fi/18zp69qhg61vekv8scdsm/4_5931242122291191284.mp4?rlkey=93k55n1443ly19cqkuqnuy119&st=2vf5bpl0&dl=1
-
-#EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/lze59d94rhekser29o7vq/moana.jpeg?rlkey=53zbd4vrsjn7spog6fh23vw7l&st=klatq63s&dl=1", Moana 2
-https://www.dropbox.com/scl/fi/g4j4jjuw7lqzilismw0bb/Moana.2026.mp4?rlkey=27fn8kfzc5bdktspqx55gzb8n&st=lrf6rxyb&dl=1
 
 #EXTINF:-1 group-title="Jstore-Top Netflix" tvg-logo="https://www.dropbox.com/scl/fi/k9z57sx3bo0yf13ncfuto/jangan-buang-ibu.jpg?rlkey=wc8nn1w2f7a2uawrgzpqygazg&st=1t1nnu5o&dl=1", Jangan Buang Ibu
 https://www.dropbox.com/scl/fi/74yniaeqcp4sf87938t4n/Jangan.Buang.Ibu.2026.mp4?rlkey=bgia9miqxpl0316x3q3w1wmzb&st=2mvwna04&dl=1
@@ -5093,6 +5128,36 @@ https://www.dropbox.com/scl/fi/ye28gxufvc8q30nc7hyjc/Lupin-E07.mp4?rlkey=kzb7fb4
 
 
 ####################################### KOREA SERIES
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/up00vzybfb5up3oawcrnj/Train-to-Busan.jpg?rlkey=r52ci3k2sfz74ordlqtih7kow&st=pc706bb3&dl=1", Train To Busan
+https://www.dropbox.com/scl/fi/dar461fo9d8j6wbnr5z3w/Train.to.Busan.2016.KOREAN.720p.BluRay.x264.malaysub.mysm.mp4?rlkey=12mi9u8gxq1pydlb0hdfkpirx&st=hlcy2j6x&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/deh2ypeeeh1r189ytkbsp/1987-When-the-Day-Comes.jpg?rlkey=7q3jl2rdr530webt0y42ht7xs&st=fpu04wjp&dl=1", 1987:When the Day Comes
+https://www.dropbox.com/scl/fi/z6pnmbnixq2x87b8q2tdq/1987-When-the-Day-Comes-2017-KOREAN-720p-WEB-DL-MalaySub.mp4?rlkey=sw36ik6d5iuzlaa33ax9iguvv&st=976cx9ld&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/3d6anrdahwhlqko9h944o/A-Taxi-Driver.jpg?rlkey=dglrh7qx7a3tedrw06xj7kcmu&st=s375jjuv&dl=1", A Taxi Driver
+https://www.dropbox.com/scl/fi/v91fflznpyk88oglofw6q/A-Taxi-Driver-2017-KOREAN-720p-WEB-DL-MalaySub.mp4?rlkey=ujilxegkhylga34te0b5qfn0o&st=y5lhyuhf&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ecr2kgcmmj4m27vdl73au/Silenced.jpg?rlkey=ox2y6f5jvqz51f7mdfqvo89rl&st=utttfbym&dl=1", Silenced
+https://www.dropbox.com/scl/fi/tpyf531vxmg8nnj2loqmc/Silenced-2011-malaysub.mp4?rlkey=r6ih4uh8a2dsndr3qw67ghyin&st=qkx1g8g1&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo=" ", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo=" ", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo=" ", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo=" ", 
+
+
+
+
+
+
+
 
 ###################### Teach You A Lesson
 
@@ -5238,7 +5303,31 @@ https://www.dropbox.com/scl/fi/ougm3cve6455jorens5pn/EP9.mp4?rlkey=9g72uw8z37ncs
 https://www.dropbox.com/scl/fi/fi7leyiv1a8dz7ndcw280/EP10.mp4?rlkey=05w61sfleqw1506z0skemjj3w&st=lu1rluns&dl=1
 
 
+################### A Shop for Killers
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E1
+https://www.dropbox.com/scl/fi/xltr5h9qphdclqma702ok/A.Shop.for.Killers.S2.EP1.720p.MalaySub-OMG.mp4?rlkey=0x84ckqlmk9x9hi29v5r1iqxh&st=0bvaocq8&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E2
+https://www.dropbox.com/scl/fi/9u9ml6zi92icog78vnxy9/A.Shop.for.Killers.S2.EP2.720p.MalaySub-OMG.mp4?rlkey=grqido5o3nk21rsdw17u4mxg4&st=wi7zxdq6&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E3
+https://www.dropbox.com/scl/fi/l6nk59z3z1vcy5ehb5r22/A.Shop.for.Killers.S2.EP3.720p.MalaySub-OMG.mp4?rlkey=suwt922zfov9y0l4wmibm2yc8&st=keu2zqpq&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E4
+https://www.dropbox.com/scl/fi/casodx025wiunvpjav4bv/A.Shop.for.Killers.S2.EP4.720p.MalaySub-OMG.mp4?rlkey=6gvxzxgfcetg9nqtnet6y1sld&st=mvexvnne&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E5
+https://www.dropbox.com/scl/fi/aq2nq86hnnmpkjwqiie5e/A.Shop.for.Killers.S2.EP5.720p.MalaySub-OMG.mp4?rlkey=y7gmvvm593a1takdj0no7n116&st=y4kccwko&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E6
+https://www.dropbox.com/scl/fi/j9r782hmv7rs5b6mxeecm/A.Shop.for.Killers.S2.EP6.720p.MalaySub-OMG.mp4?rlkey=bpv3wmo0ktdc7o06yt1z50zxx&st=qwp3z5hw&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E7
+https://www.dropbox.com/scl/fi/9t7iljb8afr2b1q2k2dw8/A.Shop.for.Killers.S2.EP7.720p.MalaySub-OMG.mp4?rlkey=rufj7o1oqex7wtucwjtwni6ck&st=hswcb3yi&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Korea Series" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pcspj5itzjduqdldpf6xl/A-Shop-for-Killers.jpeg?rlkey=jjmjg0ui0gblp0jqusa7dhqdr&st=ozh8qssr&dl=1", A Shop For Killers S2 E8
+https://www.dropbox.com/scl/fi/yzhr5v8mzt8zarol2p4wb/A.Shop.for.Killers.S2.EP8.720p.MalaySub-OMG.mp4?rlkey=c9yxkcki4axg6hsh773fpo1ad&st=macvdv1e&dl=1
 
 
 
@@ -5435,12 +5524,11 @@ https://www.dropbox.com/scl/fi/0a7epobyhbb7l6ddcojxc/Andai-Masih-Ada-Maaf-2026-E
 https://www.dropbox.com/scl/fi/pwjrvayt83rez7ysata9q/Andai-Masih-Ada-Maaf-2026-EP26-MalaySub.mp4?rlkey=zmikehfqbz43fw8y7vye2szp1&st=wch9u5ui&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E27
-
+https://www.dropbox.com/scl/fi/wq6xzq8yy5cfpduejuoz9/Andai-Masih-Ada-Maaf-2026-EP27-MalaySub.mp4?rlkey=yereoos2vmpt5gd2chwpkthxg&st=qr0tidzf&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E28
+https://www.dropbox.com/scl/fi/imlkxjwy0s5824hakquzl/Andai-Masih-Ada-Maaf-2026-EP28-Akhir-MalaySub.mp4?rlkey=zhs5y4xqqu7uvw48rct61vpbu&st=78pvrib9&dl=1
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/a2l69jt7xljuww86m0922/andai-masih-ada-maaf-ep.webp?rlkey=s5cq0d03srizgeae9yc7b702h&st=0o4me70q&dl=1", Andai Masih Ada Maaf E29
 
 
 
@@ -5474,13 +5562,24 @@ https://www.dropbox.com/scl/fi/vamm67gpnbrtkin3p3ios/Suamiku-Anak-Mak-2026-EP7-M
 https://www.dropbox.com/scl/fi/gg5q43xlmbwdiep4j82qz/Suamiku-Anak-Mak-2026-EP8-MalaySub.mp4?rlkey=qsyzjjuup744ktvk90t8f8nay&st=i7o8zacy&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E9
-
+https://www.dropbox.com/scl/fi/p12wtiy3k5ni2vzg9q31q/Suamiku-Anak-Mak-2026-EP9.mp4?rlkey=8r3hp30j0gmswxc7xl695wxbk&st=0m9slply&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E10
-
+https://www.dropbox.com/scl/fi/3f88zc9y3upbrisqxv2y5/FNP22-Suamiku-Anak-Mak-2026-EP10-Subs-Malay.mp4?rlkey=nrwohlhqpnv0s7atxvzjk0iwy&st=e311n186&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E11
+https://www.dropbox.com/scl/fi/4fk7yqu0xv62n6s2foo1n/FNP22-Suamiku-Anak-Mak-2026-EP11-Subs-Malay.mp4?rlkey=mj0j2gwu2t27zegi0hl4cm6mh&st=rej381kb&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E12
+https://www.dropbox.com/scl/fi/0v92trzjtn54k0rlgersn/FNP22-Suamiku-Anak-Mak-2026-EP12-Subs-Malay.mp4?rlkey=oh6q0xfjroqiwhy95j54k043w&st=eub2erpf&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E13
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E14
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E15
 
 
 
@@ -5545,14 +5644,24 @@ https://www.dropbox.com/scl/fi/nspwtkot19xflymue0cs2/Menantu-Tanpa-Reda-2026-EP1
 https://www.dropbox.com/scl/fi/i1u6ebbhcwk8t5ej3784z/Menantu-Tanpa-Reda-2026-EP19-MalaySub.mp4?rlkey=hxlwjc3dqccvyndc549pwwmvd&st=2q9k0zoo&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E20
-
+https://www.dropbox.com/scl/fi/aeav0vwvargpyh6yjz3kg/Menantu-Tanpa-Reda-2026-EP20-MalaySub.mp4?rlkey=wi7bqn21be36nltrzjcbmoaly&st=ba1fww2u&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E21
-
+https://www.dropbox.com/scl/fi/wopiluordwq7h019p7kdz/Menantu-Tanpa-Reda-2026-EP21.mp4?rlkey=38m4r8bwj4q2ha7m5lk5aue9w&st=efazw260&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E22
+https://www.dropbox.com/scl/fi/tohotkjh5ctrhgkczne43/FNP22-Menantu-Tanpa-Reda-2026-EP22-Subs-Malay.mp4?rlkey=6w2fzi3x3uqa15k0c59kj7p5h&st=n8gem018&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E23
+https://www.dropbox.com/scl/fi/ya2g5ibcmmh1otk2oinyd/FNP22-Menantu-Tanpa-Reda-2026-EP23-Subs-Malay.mp4?rlkey=hekiv90hqlnin7swaupv9uyoj&st=cow8fzz2&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E24
+https://www.dropbox.com/scl/fi/nl9rhclojlviixdgdrsbu/FNP22-Menantu-Tanpa-Reda-2026-EP24-Subs-Malay.mp4?rlkey=com28rs5ifx7xu3v2ywlzleda&st=2f3oqfys&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E25
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E26
 
 
 
@@ -5585,6 +5694,66 @@ https://www.dropbox.com/scl/fi/da8eeqncnfghy3ijtnj43/Projek.Love.Council.2026.EP
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/u97uqrfxczxrs8ndfxzgn/Projek-Love-Council.jpg?rlkey=kotyrge6h29nm9i0ghpn1xjvq&st=2n9r1p31&dl=1", Projek Love Council E9
 
+
+
+###### Gegarvaganza Fantasia
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/i6zzi7ae3a2k86z7w9ism/Gegar-Vaganza-Fantasia.jpg?rlkey=zcok2i9qaadrs0ondz0kdc2wq&st=u9z8v8it&dl=1", Gegarvaganza Fantasia E1
+https://www.dropbox.com/scl/fi/e2zsda45v7r7vv0aln3rh/4_6019109186003017639.mp4?rlkey=gm2d575quvegmrg31sf3dwyrs&st=8knzv0cx&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/i6zzi7ae3a2k86z7w9ism/Gegar-Vaganza-Fantasia.jpg?rlkey=zcok2i9qaadrs0ondz0kdc2wq&st=u9z8v8it&dl=1", Gegarvaganza Fantasia E2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/i6zzi7ae3a2k86z7w9ism/Gegar-Vaganza-Fantasia.jpg?rlkey=zcok2i9qaadrs0ondz0kdc2wq&st=u9z8v8it&dl=1", Gegarvaganza Fantasia E3
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/i6zzi7ae3a2k86z7w9ism/Gegar-Vaganza-Fantasia.jpg?rlkey=zcok2i9qaadrs0ondz0kdc2wq&st=u9z8v8it&dl=1", Gegarvaganza Fantasia E4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/i6zzi7ae3a2k86z7w9ism/Gegar-Vaganza-Fantasia.jpg?rlkey=zcok2i9qaadrs0ondz0kdc2wq&st=u9z8v8it&dl=1", Gegarvaganza Fantasia E5
+
+
+
+
+########### Sepenuh Hati Rindu
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E1
+https://www.dropbox.com/scl/fi/ckhhvlv36xaezrczwbel8/Sepenuh-Hati-Rindu-2026-EP1.mp4?rlkey=5v00yly08tidlv3u7x00jukuk&st=9810bgbg&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E2
+https://www.dropbox.com/scl/fi/9qxi5h68i8e0hxahdosq1/Sepenuh-Hati-Rindu-2026-EP2.mp4?rlkey=gbrmi1jyt8nz51g0x99bx81b0&st=rkrd4fxc&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E3
+https://www.dropbox.com/scl/fi/rd9i2iulmtqv6wgzy8w27/Sepenuh-Hati-Rindu-2026-EP3.mp4?rlkey=1siciwpio2eadlm6lrj4719r0&st=e8bhkd2s&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E4
+https://www.dropbox.com/scl/fi/puf62riwuql4xfe4h1a5b/Sepenuh-Hati-Rindu-2026-EP4.mp4?rlkey=2bwsuqmycd7irtua1o9oiocm4&st=ips559xi&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E5
+https://www.dropbox.com/scl/fi/s3cfo3g3ew24hmtx857jp/Sepenuh-Hati-Rindu-2026-EP5.mp4?rlkey=jpmexxb9xjdtusvbsuxqppbvh&st=f8y0d0u2&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E6
+https://www.dropbox.com/scl/fi/tetebk8d50whd5m5mv2a2/Sepenuh-Hati-Rindu-2026-EP6.mp4?rlkey=z7fv3qostb0xnhkn73b6tvi6n&st=pkkgtc9h&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E7
+https://www.dropbox.com/scl/fi/rkt854hxmzksvvu49s750/Sepenuh-Hati-Rindu-2026-EP7.mp4?rlkey=y4xvtvniaaupcu9dfsa2g94ju&st=1kv9h7o1&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E8
+https://www.dropbox.com/scl/fi/gqmd9287vy73yv9l06e8q/Sepenuh-Hati-Rindu-2026-EP8.mp4?rlkey=h5b19b31avvb5hxtcyd2jfziw&st=4l6l4ve5&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E9
+https://www.dropbox.com/scl/fi/gvg8e1skmj0ntwnvr67t5/Sepenuh-Hati-Rindu-2026-EP9.mp4?rlkey=52vc4cxgzu16w99b74wsez1aj&st=3un2hyuw&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E10
+https://www.dropbox.com/scl/fi/2mfspkj7t1p4t22os4oci/Sepenuh-Hati-Rindu-2026-EP10.mp4?rlkey=augh4hq1yzyqpydmnjk331hhy&st=pq7yjkin&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E11
+https://www.dropbox.com/scl/fi/xxk3s06uta0c6hjzkt3l7/Sepenuh-Hati-Rindu-2026-EP11.mp4?rlkey=vqtqa595qsbdybihfy0uwsvwb&st=xvcj4kbn&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E12
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E13
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E14
 
 
 
@@ -5624,6 +5793,48 @@ https://www.dropbox.com/scl/fi/1u32ebu002jafoj6dg4v1/The.Mongoose.mp4?rlkey=wn2v
 
 #EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/y64q2mtj6qtq444m5dnkf/Petaka.Gunung.Welirang.jpeg?rlkey=nqcf7pu6txk7un0mvnechk3l6&st=5y3dnm7u&dl=1", Petaka Gunung Welirang
 https://www.dropbox.com/scl/fi/1fet5a6m2jy175nimlqpk/Petaka.Gunung.Welirang.mp4?rlkey=5gzygi28jjb52lu322f5f0r6e&st=v1x3owdf&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/79r10hyuctji16txbr5jr/Chelot-Social-Media-1080-X-1350-px-H-M-1.jpg?rlkey=2fpsg9sodmgd73roq92nbuysn&st=75u9tibx&dl=1", Chelot
+https://www.dropbox.com/scl/fi/pm9gu280iivmx726tqpyx/5_6300777977407873582.mp4?rlkey=lzbb0xue269otc02xzyj88pi7&st=fo20hlqg&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/1d69890r2bgy3mtinoofv/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=mo477hd5qfu4cv1ql0a1oyqnv&st=t4e49neg&dl=1", The Odyssey 2026
+https://www.dropbox.com/scl/fi/k7kykejp8n4ivlsbjzve6/4_6016991131470931426.mp4?rlkey=b8nbtozc7uwltf0tdpx0fd1ee&st=2inlgw2c&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/tel3hiwl3zsahckuetkhf/MV5BMzYwNmI5YmQtNGJkNi00NjFjLWI4N2MtNGZlZmQwN2E0NTU4XkEyXkFqcGc-._V1_.jpg?rlkey=avmsphz3o98nhqd1xd6mmd9p0&st=mzkew737&dl=1", The Keris
+https://www.dropbox.com/scl/fi/4958fc12cm0niht9as37f/4_6019572101873148242.mp4?rlkey=i3c56vkvl7jmp290adephqej8&st=65lvkoqb&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/kvyp28507g0jaye8667tf/Neerja_Poster.jpg?rlkey=dvm8z9hcfm16s2xcnhi1w44fw&st=uw6fsqro&dl=1", Neerja
+https://www.dropbox.com/scl/fi/gze44dep676k3ak9lz4va/4_5924717010406607717.mp4?rlkey=8huro9gacxu6c4k7cv4sc5q3r&st=yhg2544r&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/1ncprq7u8b8pw8n26iwwd/the-foreigner.jpg?rlkey=6adlz916xgho5n5i6zaf1ziav&st=6hlj2kky&dl=1", The-Foreigner
+https://www.dropbox.com/scl/fi/5n7lga4vlu9szsyik8dfx/The-Foreigner-2017-Subs-Malay.mp4?rlkey=1r07zndh2xsxknzxhtq4k875g&st=9aheo6h5&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/fqxxkhb8rjus33qh310fn/402-Rumah-Sakit-Angker-Korea.jpg?rlkey=run20ih6ky3pp9up2ovd0qw54&st=mxns5u9n&dl=1", 402 Rumah Sakit Angker Korea
+https://www.dropbox.com/scl/fi/8v7hz7e1q4zf27ln9jeze/402.Rumah.Sakit.Angker.Korea..mp4?rlkey=guau21xyv5qdxfjdq5ornw0dh&st=tlwy44wk&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/fczl39fd52us8qyaq4myh/the-samurai-and-the-prisoner.jpg?rlkey=j0536kpv14tuayk76z3ten3o7&st=iwghwsov&dl=1", The Samurai and The Prisoner
+https://www.dropbox.com/scl/fi/fzooungpwu2565p1bdvul/The.Samurai.and.the.Prisoner.2026.720p.MalaySub.WEB.MSM.mp4?rlkey=9xc6gwugdkkrofimhcq4pkiu0&st=s0o08dun&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/3g7c86mzkn73a4y92g6m9/adidas-vs-puma-the-brothers-feud.jpg?rlkey=f8emzdaeyzurgt6puughs7wfb&st=aiovk4eh&dl=1", Adidas vs Puma :The Brothers Feud
+https://www.dropbox.com/scl/fi/cpw1hk8gj9a6h8lrh67ex/Adidas.Vs.Puma.The.Brothers.Feud..mp4?rlkey=hsk50rykctmkl7klqrd6ot4rq&st=ttuxdpom&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/fgbym1xuy0fb4bt0vrw39/MV5BMzZhNGQ3ZmYtODllNS00Njc2LTg2MmItYWI2ZWUwMWQwNGNiXkEyXkFqcGc-._V1_.jpg?rlkey=nr66raaqvl91nylhwnt2ggcap&st=v7884rnh&dl=1", Jailer 2
+https://www.dropbox.com/scl/fi/ljay8z872tisu1fvtf7hr/4_6028096379300093959.mp4?rlkey=3ud73hump6ae9sqlyvxp3k0wk&st=it0vabd9&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
+
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
+
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
+
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
+
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
+
 
 #EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
 

@@ -14,7 +14,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://abeott.short.gy/Ey48
+https://abeott.short.gy/Ey46
 ##https://linears2-playback.astro.com.my/vsg/41zkCtPv3xL0DfxSHm8-R2aPLkP-TSqpPW_9vBWSvuPMw=uGVt/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 

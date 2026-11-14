@@ -14,7 +14,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://abeott.short.gy/Ey4f
+https://abeott.short.gy/Ey4W
 ##https://linears2-playback.astro.com.my/vsg/41zkCtPv3xL0DfxSHm8-R2aPLkP-TSqpPW_9vBWSvuPMw=uGVt/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
@@ -62,7 +62,7 @@ https://abeott.short.gy/6zqT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://abeott.short.gy/63NV
+https://abeott.short.gy/63N0
 ##https://linears2-playback.astro.com.my/vsg/41s5s1linX0Jrmd4P4PHoPwoX0ZMorEqEikp-IEj51a14=b-Io/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 ##811
@@ -78,7 +78,7 @@ https://abeott.short.gy/TOi4
 
 ##812
 #EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
-https://abeott.short.gy/maintain
+##https://abeott.short.gy/maintain
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -134,14 +134,16 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/418HXaLAoiBMjn0KQrE5XHOZbO4gZ3MhTHTlDQSWnlxAQ=lTWP/dash-wv/jitp-linearwm/408/default_ott.mpd
+https://abeott.short.gy/SyYJ
+###https://linears2-playback.astro.com.my/vsg/41Z8lbNFB3tkfuIbTIFZxUnuXUrKvbvpWmLMK03NWZ5H8=6OAv/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 ##BEIN2
 #EXTINF:-1 tvg-id="709" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 2 (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41EjMihv463ohs-AJdrJyJTPcah7mDzV3bP_B4S2YS3bU=rO5Q/dash-wv/jitp-linearwm/5066/default_ott.mpd
+https://abeott.short.gy/xGas
+##https://linears2-playback.astro.com.my/vsg/41sA55s9NsrAuhwqynUTfCMwnsBkJqEZE_wv6d6MNkULs=UQcb/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 
 
@@ -203,7 +205,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="806.astro" tvg-logo="https://i.ibb.co/6ccPqvxB/RTM-Sukan-Plus-2026.webp" group-title="SPORTS",806 Sukan+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6sPrtrSTYW5qUz6PRo7RTw","kid":"91AbMhzj7KeeRDe7i6quEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5212/default_primary.mpd
 
 ### TNT SPORTS

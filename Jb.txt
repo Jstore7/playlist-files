@@ -14,8 +14,8 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://abeott.short.gy/Ey4W
-##https://linears2-playback.astro.com.my/vsg/41zkCtPv3xL0DfxSHm8-R2aPLkP-TSqpPW_9vBWSvuPMw=uGVt/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://abeott.short.gy/Ey4m
+##https://linears2-playback.astro.com.my/vsg/41Uz6DUALQK3zDF4689Yw1pDBYrgDF_HVwz7UXlMFJi00=Y1la/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
 
@@ -42,7 +42,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://abeott.short.gy/JgMq
+https://abeott.short.gy/JgMk
 ##https://linears2-playback.astro.com.my/vsg/41NC3-3LwNw0YAI6BhIKD73bFcleBao_0UtQJgrFqw9wE=_70l/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 ##804
@@ -53,7 +53,7 @@ https://abeott.short.gy/JgMq
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://abeott.short.gy/6zqT
+https://abeott.short.gy/6zq9
 ##https://linears2-playback.astro.com.my/vsg/41Ngx_5QWsLe9eYk9X4ZQOELTjDHf7CYsX8Av4wLtP_x4=YJl6/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 ##810
@@ -62,7 +62,7 @@ https://abeott.short.gy/6zqT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://abeott.short.gy/63N0
+https://abeott.short.gy/63Ng
 ##https://linears2-playback.astro.com.my/vsg/41s5s1linX0Jrmd4P4PHoPwoX0ZMorEqEikp-IEj51a14=b-Io/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 ##811
@@ -73,7 +73,7 @@ https://abeott.short.gy/63N0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://abeott.short.gy/TOi4
+https://abeott.short.gy/TOis
 ##https://linears2-playback.astro.com.my/vsg/41Pz3vpySdJq48QyfJ0aFr02qw5d5-XI1paV9pzrRIQcA=thAH/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 ##812
@@ -85,7 +85,7 @@ https://abeott.short.gy/TOi4
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://abeott.short.gy/oV5W
+https://abeott.short.gy/oV5w
 ##https://linears2-playback.astro.com.my/vsg/41F8Clv-hB3x1VVAFgNUHmJFsm0p3bT9EWOPsjatvjKMg=l0DX/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" ch-number="813" group-title="SPORTS" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",813 Premier League 3 HD
@@ -134,7 +134,7 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://abeott.short.gy/SyYJ
+https://abeott.short.gy/SyYc
 ###https://linears2-playback.astro.com.my/vsg/41Z8lbNFB3tkfuIbTIFZxUnuXUrKvbvpWmLMK03NWZ5H8=6OAv/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 ##BEIN2
@@ -142,7 +142,7 @@ https://abeott.short.gy/SyYJ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://abeott.short.gy/xGas
+https://abeott.short.gy/xGa5
 ##https://linears2-playback.astro.com.my/vsg/41sA55s9NsrAuhwqynUTfCMwnsBkJqEZE_wv6d6MNkULs=UQcb/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 

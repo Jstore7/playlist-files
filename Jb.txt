@@ -5,6 +5,12 @@
 https://iili.io/CN3tDy7.png
 
 ######################## HOT CHANNEL 
+##100
+#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="100.astro" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/kgS3n1Kx/Astro-30-CH-100-Logo.webp",100 Anniversary 30 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
 ##611
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
@@ -14,7 +20,7 @@ https://iili.io/CN3tDy7.png
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://abeott.short.gy/Ey4m
+https://abeott.short.gy/Ey4f
 ##https://linears2-playback.astro.com.my/vsg/41Uz6DUALQK3zDF4689Yw1pDBYrgDF_HVwz7UXlMFJi00=Y1la/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
@@ -62,7 +68,7 @@ https://abeott.short.gy/6zq9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://abeott.short.gy/63Ng
+https://abeott.short.gy/63Nw
 ##https://linears2-playback.astro.com.my/vsg/41s5s1linX0Jrmd4P4PHoPwoX0ZMorEqEikp-IEj51a14=b-Io/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 ##811
@@ -134,7 +140,7 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://abeott.short.gy/SyYc
+https://abeott.short.gy/SyY2
 ###https://linears2-playback.astro.com.my/vsg/41Z8lbNFB3tkfuIbTIFZxUnuXUrKvbvpWmLMK03NWZ5H8=6OAv/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 ##BEIN2
@@ -142,7 +148,7 @@ https://abeott.short.gy/SyYc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://abeott.short.gy/xGa5
+https://abeott.short.gy/xGaB
 ##https://linears2-playback.astro.com.my/vsg/41sA55s9NsrAuhwqynUTfCMwnsBkJqEZE_wv6d6MNkULs=UQcb/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 

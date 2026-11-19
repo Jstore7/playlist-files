@@ -5391,6 +5391,12 @@ https://www.dropbox.com/scl/fi/ls80v2l1gj5qufon4i9mg/Gerak-Khas-2-0-2026-EP17.mp
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E18
 https://www.dropbox.com/scl/fi/8d1rl1cape3x0wkk9s90u/Gerak-Khas-2-0-2026-EP18.mp4?rlkey=xs40ofqgmwxmrordlm8725dt0&st=5rp605s6&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E19
+https://www.dropbox.com/scl/fi/d0fwgem3l93wkkynchj7y/Gerak-Khas-2-0-2026-EP19.mp4?rlkey=851sgxfg1rgjhftyvc6tv0boz&st=yefro3br&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uxxlckvppdo68cnnnydem/Gerak-Khas-2.0.jpg?rlkey=r54p4ark901z5lr2jh69s9fmx&st=l2ni1hjw&dl=1", Gerak Khas 2.0 E20
+https://www.dropbox.com/scl/fi/v2bit6p07wohd0wu7ji1d/Gerak-Khas-2-0-2026-EP20.mp4?rlkey=x7t27igzx7pp47l539jroo6fo&st=7bamugyc&dl=1
+
 
 
 ##################### Kilauan Emas Selebriti
@@ -5574,10 +5580,10 @@ https://www.dropbox.com/scl/fi/4fk7yqu0xv62n6s2foo1n/FNP22-Suamiku-Anak-Mak-2026
 https://www.dropbox.com/scl/fi/0v92trzjtn54k0rlgersn/FNP22-Suamiku-Anak-Mak-2026-EP12-Subs-Malay.mp4?rlkey=oh6q0xfjroqiwhy95j54k043w&st=eub2erpf&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E13
-
+https://www.dropbox.com/scl/fi/91mo2cbh92umi32zqq4et/Suamiku-Anak-Mak-2026-EP13-MVSVAP.mp4?rlkey=1p3sna4n2pwnwv9pk14paytpl&st=z2mi07vd&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E14
-
+https://www.dropbox.com/scl/fi/ecxeccms16uae1r6owauw/Suamiku-Anak-Mak-2026-EP14.mp4?rlkey=73274rjgigdgixr00ufshv8jz&st=4zqnyj5r&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ej8om4duugwsr53eyuu7h/Suamiku-Anak-Mak.jpg?rlkey=3imkm19xjxpo0pfmi8edswdnk&st=2wgsbr4v&dl=1", Suamiku Anak Mak E15
 
@@ -5659,10 +5665,21 @@ https://www.dropbox.com/scl/fi/ya2g5ibcmmh1otk2oinyd/FNP22-Menantu-Tanpa-Reda-20
 https://www.dropbox.com/scl/fi/nl9rhclojlviixdgdrsbu/FNP22-Menantu-Tanpa-Reda-2026-EP24-Subs-Malay.mp4?rlkey=com28rs5ifx7xu3v2ywlzleda&st=2f3oqfys&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E25
-
+https://www.dropbox.com/scl/fi/cqbzs633a419r0tqtl41a/Menantu-Tanpa-Reda-2026-EP25-MalaySub.mp4?rlkey=4940erptkqvzu57qdzjl14urb&st=iz1dd9f4&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E26
+https://www.dropbox.com/scl/fi/zumvsxo959155gp1ikaz4/FNP22-Menantu-Tanpa-Reda-2026-EP26-Subs-Malay.mp4?rlkey=20tui14iumso5yx5w6k022oo4&st=0xeqne5z&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E27
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E28
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E29
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zj0za8suu7h46s726q1qp/menantu-tanpa-reda.jpeg?rlkey=v854hgjlrar18s314qqi7840w&st=hy2bjagf&dl=1", Menantu Tanpa Reda E30
 
 
 
@@ -5702,6 +5719,7 @@ https://www.dropbox.com/scl/fi/da8eeqncnfghy3ijtnj43/Projek.Love.Council.2026.EP
 https://www.dropbox.com/scl/fi/e2zsda45v7r7vv0aln3rh/4_6019109186003017639.mp4?rlkey=gm2d575quvegmrg31sf3dwyrs&st=8knzv0cx&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/i6zzi7ae3a2k86z7w9ism/Gegar-Vaganza-Fantasia.jpg?rlkey=zcok2i9qaadrs0ondz0kdc2wq&st=u9z8v8it&dl=1", Gegarvaganza Fantasia E2
+https://www.dropbox.com/scl/fi/9z871fbmxskemlv96r2m4/Gegar.Vaganza.Fantasia.2026.EP2.1080p.WEB.MSM.mp4?rlkey=xguiwprixz64s5hte5n9txa96&st=6ojgwncm&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/i6zzi7ae3a2k86z7w9ism/Gegar-Vaganza-Fantasia.jpg?rlkey=zcok2i9qaadrs0ondz0kdc2wq&st=u9z8v8it&dl=1", Gegarvaganza Fantasia E3
 
@@ -5748,12 +5766,72 @@ https://www.dropbox.com/scl/fi/2mfspkj7t1p4t22os4oci/Sepenuh-Hati-Rindu-2026-EP1
 https://www.dropbox.com/scl/fi/xxk3s06uta0c6hjzkt3l7/Sepenuh-Hati-Rindu-2026-EP11.mp4?rlkey=vqtqa595qsbdybihfy0uwsvwb&st=xvcj4kbn&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E12
-
+https://www.dropbox.com/scl/fi/xzjd5lm1i5s6sg2g80b12/Sepenuh-Hati-Rindu-2026-EP12.mp4?rlkey=47506jcv1czo8y658yg2n9gge&st=nl1ls7nc&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E13
-
+https://www.dropbox.com/scl/fi/ozcjxq3k6jqzecfx5r7vj/Sepenuh-Hati-Rindu-2026-EP13.mp4?rlkey=fjunyui008mxi9frqb7mx18ay&st=5kwqbnyy&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E14
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E15
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2kep9e262t7hcydh9mbgk/Sepenuh-Hati-Rindu.jpeg?rlkey=5kt30bwslj9g10v8ubek9b7gn&st=9a4gof64&dl=1", Sepenuh Hati Rindu E16
+
+
+
+############## The Hidden Hand (Dia Perempuan Sialan)
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E1
+https://www.dropbox.com/scl/fi/idvohsogvz5lzrzxvjc8a/The_Hidden_Hand_Dia_Perempuan_Sialan_2026_S01E01_The_Hidden_Hand.mkv?rlkey=tpxdrehudrkla6671ddyzqd9x&st=ty9t4wx5&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E2
+https://www.dropbox.com/scl/fi/fizhgz1ernwc8jlmajv7q/The_Hidden_Hand_Dia_Perempuan_Sialan_2026_S01E02_The_Hidden_Hand.mkv?rlkey=rhetmnbhb5fdr2e1urquof8u4&st=opor7884&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E3
+https://www.dropbox.com/scl/fi/g8lf3wwd908cpxtfzhuu7/The_Hidden_Hand_Dia_Perempuan_Sialan_2026_S01E03_The_Hidden_Hand.mkv?rlkey=oevkacyhggzimjmrv7yeepen1&st=mny31qpd&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E4
+https://www.dropbox.com/scl/fi/zukil65vg6dxgop1go3xq/The_Hidden_Hand_Dia_Perempuan_Sialan_2026_S01E04_The_Hidden_Hand.mkv?rlkey=7o0v6o1p2u13wi3rh2zo50hq2&st=l3ymic55&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E5
+https://www.dropbox.com/scl/fi/r721y090f780ulax8qpx2/The_Hidden_Hand_2026_S01E05_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=dah0raud3ntks1d4ls3rb64gz&st=6wg1qnv8&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E6
+https://www.dropbox.com/scl/fi/4id4qeyrpur6meurmfzlt/The_Hidden_Hand_2026_S01E06_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=dfwca281a2hmsa8ppcblgcv85&st=mmi6kadj&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E7
+https://www.dropbox.com/scl/fi/vlwu2pjvbetbr5m1d14l6/The_Hidden_Hand_2026_S01E07_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=s8t1qvkx509ccecr4txbybn2j&st=rltliym8&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E8
+https://www.dropbox.com/scl/fi/rz91cpiumitjf0m69s7ct/The_Hidden_Hand_2026_S01E08_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=ofjhajpf1dx1nn3ilu4h99693&st=20hw4lg8&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E9
+https://www.dropbox.com/scl/fi/352y02ly1r8pb8tafsam6/The_Hidden_Hand_2026_S01E09_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=x1vzxk07jzdergnztvgmbwnwt&st=gdv74dis&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E10
+https://www.dropbox.com/scl/fi/u3eb2bejklx6q3xj6dysn/The_Hidden_Hand_2026_S01E10_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=gf3pnpocnykn8avzi8c3dflij&st=o966m5qj&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E11
+https://www.dropbox.com/scl/fi/jrdmafm2y4ymnl5l7cdx2/The_Hidden_Hand_2026_S01E11_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=exwycg99e0601azw177f8a6bu&st=iqm78hez&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E12
+https://www.dropbox.com/scl/fi/3y10pzahpgkg827w5uw02/The_Hidden_Hand_2026_S01E12_1080p_VIU_WEB_DL_AAC2_0_H_264_snomyuoua.mkv?rlkey=0ojid9k6cbgiu9pngk95d31ll&st=s81chcb4&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E13
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E14
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E15
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E16
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jstore -Drama On-Going" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/riv87wwiv4ljwpebttp9l/The-Hidden-Hand-Dia-Perempuan-Sialan.jpeg?rlkey=jjfobsxexecodhf00ph9at50q&st=oqokdzoh&dl=1", The Hidden Hand E17
 
 
 
@@ -5821,6 +5899,30 @@ https://www.dropbox.com/scl/fi/cpw1hk8gj9a6h8lrh67ex/Adidas.Vs.Puma.The.Brothers
 #EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/fgbym1xuy0fb4bt0vrw39/MV5BMzZhNGQ3ZmYtODllNS00Njc2LTg2MmItYWI2ZWUwMWQwNGNiXkEyXkFqcGc-._V1_.jpg?rlkey=nr66raaqvl91nylhwnt2ggcap&st=v7884rnh&dl=1", Jailer 2
 https://www.dropbox.com/scl/fi/ljay8z872tisu1fvtf7hr/4_6028096379300093959.mp4?rlkey=3ud73hump6ae9sqlyvxp3k0wk&st=it0vabd9&dl=1
 
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/4tc8696t7n1d9lhp4tw54/Avengers_Endgame_Encore_poster.jpg?rlkey=ta1ejchtarppg773gia8a4b80&st=qcq8bllp&dl=1", Avengers Endgame: Encore
+https://www.dropbox.com/scl/fi/rmo6gv3ieaxz3rx93xqwa/4_6032786844364579431.mp4?rlkey=gofleatrdq4yd1ktatxlq8nur&st=k7stox3r&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/avfn2c49xsvoin8psdn96/fb_img_1794742302399.jpg?rlkey=qihrzvjkdvno5bgimk2qbivdm&st=orv6ipes&dl=1", Daayra
+https://www.dropbox.com/scl/fi/v9lwethp2goxep2y1hlz3/4_6037470029459496933.mp4?rlkey=ksga8ik49fkvy3k1htlb9jwd2&st=a5r4hnj8&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/77m8s863mg26gri4ygltx/images.jpeg?rlkey=mw6flvogfktz68afgh53rba0l&st=fzevi8lg&dl=1", Tikus
+https://www.dropbox.com/scl/fi/53cpzejv429ut6t3lxkqi/4_6039495420072172978.mp4?rlkey=pf2w3hpbl7rtqamsga33o0roh&st=4l3mrxsj&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/615rn43y2q05lowt1lj5e/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE-._V1_.jpg?rlkey=retk9utf361m0xrcxkfnytyeg&st=41pzt6sx&dl=1", The Hobbit
+https://www.dropbox.com/scl/fi/i478kxxzhvul6vr9cnw7c/4_5863717591356281204.mp4?rlkey=4npy19f78uuanooxibllgns3w&st=ohf1gnag&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/dgez3ygw2x49s0a8384uc/Ranabaali.2026.jpg?rlkey=59ft5bmvz796cseaup1i5inqq&st=rew8sjcy&dl=1", Ranabaali
+https://www.dropbox.com/scl/fi/59je7jq0f2t6p8hurwo8n/Ranabaali.2026.720p.MalaySub.HHH.mp4?rlkey=buteur1e2efi2ujnypawod24k&st=qds0uyyr&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/5oidf01f2dogcw972k5kt/Blind.Game.2026.jpg?rlkey=jeadnqnjylduxxvqvztxssyig&st=pg23aq7e&dl=1", Blind Game
+https://www.dropbox.com/scl/fi/gb22hn6p1u5ja5dr98x1k/Blind.Game.2026.720p.MalaySub.HHH.mp4?rlkey=x2czwugntxftn9ab4ttjcg9q0&st=gnb8qtl4&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/gbgdjd17ldosgcohns3su/The.Beast.2026.jpg?rlkey=fj506yvudnmph2gmcihxtzb6b&st=jbt1i0d7&dl=1", The Beast
+https://www.dropbox.com/scl/fi/jhlietkdtymrniixlkhnn/The.Beast.2026.720p.MalaySub.WEB.MSM.mp4?rlkey=8l903m35ol270d5nfmzw881h4&st=b4d3eiik&dl=1
+
+#EXTINF:-1 group-title="1. Movie on November" tvg-logo="https://www.dropbox.com/scl/fi/mftgf01uw5okiw7oh5rl7/Street-Fighter-movie-2014.jpg?rlkey=60jflibdf58j1svbav86s1bp9&st=z83izpej&dl=1", Street Fighter: Assassin's Fist 2014
+https://www.dropbox.com/scl/fi/p6snjmu8zb8w3fmnjqr0e/Street-Fighter_-Assassin-s-Fist-2014-_Malay-Sub.mp4?rlkey=vsg2trhlasmp7p39mobg7fzc0&st=uqttyta6&dl=1
+
 #EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
 
 
@@ -5835,11 +5937,3 @@ https://www.dropbox.com/scl/fi/ljay8z872tisu1fvtf7hr/4_6028096379300093959.mp4?r
 
 #EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
 
-
-#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
-
-
-#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",
-
-
-#EXTINF:-1 group-title="1. Movie on November" tvg-logo=" ",

@@ -20,7 +20,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://abeott.short.gy/Ey40
+https://abeott.short.gy/EYL5
 ##https://linears2-playback.astro.com.my/vsg/41Uz6DUALQK3zDF4689Yw1pDBYrgDF_HVwz7UXlMFJi00=Y1la/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
@@ -140,7 +140,7 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://abeott.short.gy/SyYr
+https://abeott.short.gy/SYY6
 ###https://linears2-playback.astro.com.my/vsg/41Z8lbNFB3tkfuIbTIFZxUnuXUrKvbvpWmLMK03NWZ5H8=6OAv/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 ##BEIN2
@@ -148,7 +148,7 @@ https://abeott.short.gy/SyYr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://abeott.short.gy/xGas
+https://abeott.short.gy/XGA0
 ##https://linears2-playback.astro.com.my/vsg/41sA55s9NsrAuhwqynUTfCMwnsBkJqEZE_wv6d6MNkULs=UQcb/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 

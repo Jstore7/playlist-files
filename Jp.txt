@@ -20,11 +20,11 @@ https://abeott.short.gy/main
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41gSHdD9YyjDTGoSHvoqgQLqXLDVQ77V4T3Iv1xjBvvpU=_I-j/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41P4iS5kTy_IFVQxeDwC3JSafbr1sMJ6SCSK-NeP4mXAc=HWdZ/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
 
-@#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
@@ -32,7 +32,7 @@ https://linears2-playback.astro.com.my/vsg/41gSHdD9YyjDTGoSHvoqgQLqXLDVQ77V4T3Iv
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
+http://31.42.176.223/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 ##105
@@ -43,7 +43,7 @@ https://abeott.short.gy/main
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41Psin8e0sOv8oyc1NibNzPetI_i3fC4zvmv6Sl-fXBHQ=5jl7/dash-wv/jitp-linearwm/1000/default_ott.mpd
 
-@#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
@@ -51,7 +51,7 @@ https://linears2-playback.astro.com.my/vsg/41Psin8e0sOv8oyc1NibNzPetI_i3fC4zvmv6
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
+http://31.42.176.223/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -65,7 +65,7 @@ https://abeott.short.gy/main
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41cg6hxYb0J8E32pSQ8OzJwwh49p4qEB6Rsy9XzbixGV4=qRNS/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
-@#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
@@ -73,7 +73,7 @@ https://linears2-playback.astro.com.my/vsg/41cg6hxYb0J8E32pSQ8OzJwwh49p4qEB6Rsy9
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
+http://31.42.176.223/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 ##113
@@ -121,13 +121,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 ##803
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
-https://abeott.short.gy/main
+##https://abeott.short.gy/main
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41NC3-3LwNw0YAI6BhIKD73bFcleBao_0UtQJgrFqw9wE=_70l/dash-wv/jitp-linearwm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41ltmZFY9rFyrd4zMxvzdeZVVQ_vg4KJTgQTrprnSA7kI=lZkx/dash-wv/jitp-dashisowm/5099/default_ott.mpd
 
 ##804
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Arena Bola 2 HD (Not 24H)
@@ -361,7 +361,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 
 
 ## SOCCER CHANNEL
-@#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/rRNwBvfF/jadwal-program-soccer-channel-1140x641.jpg" group-title="SPORTS",Soccer Channel HD
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/rRNwBvfF/jadwal-program-soccer-channel-1140x641.jpg" group-title="SPORTS",Soccer Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

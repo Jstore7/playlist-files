@@ -20,11 +20,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41P4iS5kTy_IFVQxeDwC3JSf7sRrg6ceh25rIiVjciHNc=YA03/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41P4iS5kTy_IFVQxeDwC3JSS0H0P03isWiackw1lQpL5A=tgWo/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
 
-#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
+@#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
@@ -43,7 +43,7 @@ http://31.42.176.223/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41EAXHQQHi3pSOi2CnhnzspyJevSDEEXnzE4pKYhNHcuU=cc8k/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
+@#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
@@ -127,7 +127,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ltmZFY9rFyrd4zMxvzdeZVVQ_vg4KJTgQTrprnSA7kI=lZkx/dash-wv/jitp-dashisowm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41ltmZFY9rFyrd4zMxvzdeZfTW4JiDQbCSrUgU0SlIYBM=tuT6/dash-wv/jitp-dashisowm/5099/default_ott.mpd
 
 ##804
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Arena Bola 2 HD (Not 24H)
@@ -137,7 +137,7 @@ https://abeott.short.gy/main
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Ngx_5QWsLe9eYk9X4ZQOELTjDHf7CYsX8Av4wLtP_x4=YJl6/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/410oSvBtvmhngiEjUrfUgT4G70Q_bJDXRWO4trQ2htCLo=CZT3/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 ##810
 #EXTINF:-1 tvg-id="810.astro" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="SPORTS",810 Grandstand HD (Not 24H)

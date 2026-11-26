@@ -13,14 +13,14 @@ https://iili.io/CN3tDy7.png
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
 ##104
-@#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
 ##https://abeott.short.gy/main
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41P4iS5kTy_IFVQxeDwC3JSWbhtd7DdY0XcOTE21NR5SY=h8f9/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41xIRGfBG021BpKVitfKtbq9ezBTQHhJx6jctq6b2Mw18=Dw6l/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
 
@@ -36,12 +36,12 @@ http://31.42.176.223/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07
 
 
 ##105
-@#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 ##https://abeott.short.gy/main
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41EAXHQQHi3pSOi2Cnhnzsp_DL029a_DmEZHwgLdUOxNo=MZsC/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41JJaaAXVHMMF7wL0rjOF8vfMGfkIkfYfAydg4lFtTqTQ=ZL1d/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -56,14 +56,14 @@ http://31.42.176.223/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:
 
 
 ##108
-@#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
-https://abeott.short.gy/main
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
+##https://abeott.short.gy/main
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41cg6hxYb0J8E32pSQ8OzJwwh49p4qEB6Rsy9XzbixGV4=qRNS/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41oqFbV8wxSYXPYUd-4idc8lHB877yo4-aYZVOoZbIW9g=VqH6/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="HOT CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -100,7 +100,7 @@ https://linears2-playback.astro.com.my/vsg/41bzRMUl_4dP99_DXJ7y6WPaXzkjR8dDKfdMY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41UuwOYpcAjBwGogpoktYjJ0gukFC__le4oNtJ0hPOmCA=KcDp/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41Jz-yJ_9_xVnF1ieqqCvARegZmqhALUY0jNIzlPXq93U=bvwk/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
 

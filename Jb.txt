@@ -20,7 +20,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Jz-yJ_9_xVnF1ieqqCvARegZmqhALUY0jNIzlPXq93U=bvwk/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41vXMK8243EXLqXXPmM0oos86ShEB8YdwaxrnhM5-65JU=VnzY/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
 
@@ -133,19 +133,19 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
  
 ##BEIN1
 #EXTINF:-1 tvg-id="708" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 1 (Not 24H)
-https://abeott.short.gy/main
+##https://abeott.short.gy/main
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Z8lbNFB3tkfuIbTIFZxUnuXUrKvbvpWmLMK03NWZ5H8=6OAv/dash-wv/jitp-linearwm/408/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41WyNzIAzBA6sjxcI0jzRiWbAKk5_aJyRVnv5lVqSW7Vw=F-dK/dash-wv/jitp-linearwm/408/default_ott.mpd
 
 ##BEIN2
 #EXTINF:-1 tvg-id="709" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530" group-title="SPORTS",beIN SPORTS 2 (Not 24H)
-https://abeott.short.gy/main
+##https://abeott.short.gy/main
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41sA55s9NsrAuhwqynUTfCMwnsBkJqEZE_wv6d6MNkULs=UQcb/dash-wv/jitp-linearwm/5066/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41JK5b2L3t4dPqsqNhsqPtzM5vsUqH0eE3gxUEw0u_YNI=DFw0/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 
 
@@ -269,21 +269,21 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 ######## FUBO SPORTS
 
-@#EXTINF:-1  tvg-id="fubo-sports-network-us" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="SPORTS", FUBO Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
- 
-@#EXTINF:-1  tvg-id="fubo-sports-network-2-us" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="SPORTS", FUBO Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1  tvg-id="fubo-sports-network-us" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="SPORTS", FUBO Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+#EXTINF:-1  tvg-id="fubo-sports-network-2-us" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="SPORTS", FUBO Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
 
 
 ## SOCCER CHANNEL
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/rRNwBvfF/jadwal-program-soccer-channel-1140x641.jpg" group-title="SPORTS",Soccer Channel HD
+@#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/rRNwBvfF/jadwal-program-soccer-channel-1140x641.jpg" group-title="SPORTS",Soccer Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
